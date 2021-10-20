@@ -7,7 +7,9 @@
 
 And most important of all
 - Programming
-### Programming stuff:
+<details>
+<summary>Programming stuff:<\summary>
+<\details>
 ### Anime and Manga I like:
 - [Rascal Does not dream about Bunny girl Senpai](https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai?q=rascal&cat=anime)
 ### Games I play:
