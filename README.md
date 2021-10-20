@@ -2,7 +2,7 @@
 ### Stuff I enjoy/like:
 - Anime 
 - Manga 
-- V-tubers (don't judge me)
+- [V-tubers](https://c.tenor.com/8emxitJuwBcAAAAd/yorumi-rena-nijisanji.gif) (don't judge me)
 - Games
 
 And most important of all
