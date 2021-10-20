@@ -10,8 +10,8 @@ And most important of all
 ### Programming details:
 
 ### Anime and Manga I like:
-- [Kimetsu no Yaiba (Demon Slayer)][https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba]
-- [Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai (Rascal Does Not Dream of Bunny Girl Senpai)](https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai)
+- [Kimetsu no Yaiba](https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba) (Demon Slayer)
+- [Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai](https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai) (Rascal Does Not Dream of Bunny Girl Senpai)
 ### Games I play:
 ### Other stuff:
 
