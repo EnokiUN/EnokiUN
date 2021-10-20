@@ -7,13 +7,11 @@
 
 And most important of all
 - Programming
-<details>
-    <summary>### Programming stuff: </summary>
-    Python
+### Programming details:
 
-</details>
 ### Anime and Manga I like:
-- [Rascal Does not dream about Bunny girl Senpai](https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai?q=rascal&cat=anime)
+- [Kimetsu no Yaiba (Demon Slayer)][https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba]
+- [Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai (Rascal Does Not Dream of Bunny Girl Senpai)](https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai)
 ### Games I play:
 ### Other stuff:
 
