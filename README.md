@@ -8,7 +8,10 @@
 And most important of all
 - Programming
 ### Programming details:
-- I know [python <img width=19px src="assets/python-logo.png"/>](https://python.org)
+[<img width=19px src="assets/python-logo.png"/>](https://python.org)
+- I know Python and GDscript 
+- Currently trying to learn JavaScript 
+- Hope to learn Rust one day....
 ### Anime and Manga I like:
 - [Kimetsu no Yaiba](https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba) (Demon Slayer)
 - [Shingeki no Kyojin](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin) (Attack on Titan)
