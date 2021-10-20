@@ -8,7 +8,7 @@
 And most important of all
 - Programming
 ### Programming Details:
-[<img align=left width=30px src="assets/python-logo.png"/>](https://python.org) [<img align=left width=30px src="assets/Godot_icon.svg.png"/>](https://python.org) [<img align=left width=35px src="assets/2048px-Unofficial_JavaScript_logo_2.svg.png"/>](https://python.org) [<img align=left width=30px src="assets/Rust_programming_language_black_logo.svg.png"/>](https://python.org)
+[<img align=left width=30px src="assets/python-logo.png"/>](https://python.org) [<img align=left width=30px src="assets/Godot_icon.svg.png"/>](https://godotengine.org) [<img align=left width=35px src="assets/2048px-Unofficial_JavaScript_logo_2.svg.png"/>](https://javascript.com) [<img align=left width=30px src="assets/Rust_programming_language_black_logo.svg.png"/>](https://rust-lang.net)
 <br>
 - I make discord bots *using [Pycord](https://github.com/Pycord-Development/pycord)* and games
 - I know Python and GDscript 
