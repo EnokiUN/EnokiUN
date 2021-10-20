@@ -8,7 +8,7 @@
 And most important of all
 - Programming
 ### Programming details:
-[<img src="assets/python-logo.png"]
+![<img src="assets/python-logo.png"]
 ### Anime and Manga I like:
 - [Kimetsu no Yaiba](https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba) (Demon Slayer)
 - [Shingeki no Kyojin](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin) (Attack on Titan)
