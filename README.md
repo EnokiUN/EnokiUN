@@ -19,6 +19,12 @@ And most important of all
 - [Shingeki no Kyojin](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin) (Attack on Titan)
 - [Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai](https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai) (Rascal Does Not Dream of Bunny Girl Senpai)
 ### Games I play:
+- [Minecraft]()
+- [Terraria]()
+- [Rhythm Doctor]()
+- [Osu!]()
+- [Enter the Gungeon]()
+- [Genshin Impact]() *soon™*
 ### Other stuff:
 [<img align=left width=30px src="assets/Logo Discord 2021.png"/>][discordserver] [<img align=left width=30px src="assets/free-reddit-logo-icon-2436-thumb.png"/>][subreddit]
 <br>
