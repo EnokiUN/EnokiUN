@@ -1,5 +1,5 @@
 ## Whussup people, it's me ya boi Enoki
-### I like:
+### Stuff I enjoy/like:
 - Anime 
 - Manga 
 - V-tubers (don't judge me)
@@ -8,7 +8,9 @@
 And most important of all
 - Programming
 <details>
-<summary>Programming stuff:<\summary>
+<summary> Programming stuff: <\summary>
+
+
 <\details>
 ### Anime and Manga I like:
 - [Rascal Does not dream about Bunny girl Senpai](https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai?q=rascal&cat=anime)
