@@ -8,8 +8,8 @@
 And most important of all
 - Programming
 <details>
-<summary> Programming stuff: <\summary>
-
+    <summary> Programming stuff: <\summary>
+    Python
 
 <\details>
 ### Anime and Manga I like:
