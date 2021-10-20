@@ -8,10 +8,10 @@
 And most important of all
 - Programming
 <details>
-    <summary> Programming stuff: <\summary>
+    <summary>### Programming stuff: </summary>
     Python
 
-<\details>
+</details>
 ### Anime and Manga I like:
 - [Rascal Does not dream about Bunny girl Senpai](https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai?q=rascal&cat=anime)
 ### Games I play:
