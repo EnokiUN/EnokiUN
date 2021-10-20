@@ -9,7 +9,7 @@ And most important of all
 - Programming
 ### Programming Details:
 [<img align=left width=30px src="assets/python-logo.png"/>](https://python.org) [<img align=left width=30px src="assets/Godot_icon.svg.png"/>](https://python.org) [<img align=left width=35px src="assets/2048px-Unofficial_JavaScript_logo_2.svg.png"/>](https://python.org) [<img align=left width=30px src="assets/Rust_programming_language_black_logo.svg.png"/>](https://python.org)
-<br>
+
 - I know Python and GDscript 
 - Currently trying to learn JavaScript 
 - Hope to learn Rust one day....
@@ -20,6 +20,7 @@ And most important of all
 ### Games I play:
 ### Other stuff:
 [<img align=left width=30px src="assets/Logo Discord 2021.png"/>][discordserver] [<img align=left width=30px src="assets/free-reddit-logo-icon-2436-thumb.png"/>][subreddit]
+
 If you wanna talk with me and chill don't hesitate to add me on [discord][discord] or on [reddit][reddit]!
 
 - Github stats:
