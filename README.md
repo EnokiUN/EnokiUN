@@ -8,7 +8,7 @@
 And most important of all
 - Programming
 ### Programming details:
-[<img width=19px src="assets/python-logo.png"/>](https://python.org) [<img width=19px src="assets/Godot_icon.svg.png"/>](https://python.org) [<img width=19px src="assets/2048px-Unofficial_JavaScript_logo_2.svg.png"/>](https://python.org) [<img width=19px src="assets/Rust_programming_language_black_logo.svg.png"/>](https://python.org)
+[<img width=19px src="assets/python-logo.png"/>](https://python.org) [<img width=25px src="assets/Godot_icon.svg.png"/>](https://python.org) [<img width=25px src="assets/2048px-Unofficial_JavaScript_logo_2.svg.png"/>](https://python.org) [<img width=25px src="assets/Rust_programming_language_black_logo.svg.png"/>](https://python.org)
 - I know Python and GDscript 
 - Currently trying to learn JavaScript 
 - Hope to learn Rust one day....
