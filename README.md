@@ -14,17 +14,18 @@ And most important of all
 - I know Python and GDscript 
 - Currently trying to learn JavaScript 
 - Hope to learn Rust one day....
-### My Favourite Anime Shows:
+### Some of My Favourite Anime Shows:
 - [Kimetsu no Yaiba](https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba) (Demon Slayer)
 - [Shingeki no Kyojin](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin) (Attack on Titan)
 - [Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai](https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai) (Rascal Does Not Dream of Bunny Girl Senpai)
-### Games I play:
-- [Minecraft]()
-- [Terraria]()
-- [Rhythm Doctor]()
-- [Osu!]()
-- [Enter the Gungeon]()
-- [Genshin Impact]() *soon™*
+### My Favourite Games:
+- [Minecraft](https://minecraft.net)
+- [Terraria](https://terraria.org)
+- [Rhythm Doctor](https://rhythmdr.com/)
+- [Katana Zero](https://www.katanazero.com/)
+- [Osu!](https://osu.ppy.sh)
+- [Enter the Gungeon](https://enterthegungeon.com)
+- [Genshin Impact](https://genshin.mihoyo.com/m/en/) *soon™*
 ### Other stuff:
 [<img align=left width=30px src="assets/Logo Discord 2021.png"/>][discordserver] [<img align=left width=30px src="assets/free-reddit-logo-icon-2436-thumb.png"/>][subreddit]
 <br>
