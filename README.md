@@ -10,7 +10,8 @@ And most important of all
 ### Programming Details:
 [<img align=left width=30px src="assets/python-logo.png"/>](https://python.org) [<img align=left width=30px src="assets/Godot_icon.svg.png"/>](https://python.org) [<img align=left width=35px src="assets/2048px-Unofficial_JavaScript_logo_2.svg.png"/>](https://python.org) [<img align=left width=30px src="assets/Rust_programming_language_black_logo.svg.png"/>](https://python.org)
 
-- I make discord bots ||using [Pycord](https://github.com/Pycord-Development/pycord)|| and games
+
+- I make discord bots *using [Pycord](https://github.com/Pycord-Development/pycord)* and games
 - I know Python and GDscript 
 - Currently trying to learn JavaScript 
 - Hope to learn Rust one day....
