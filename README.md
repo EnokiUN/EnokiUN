@@ -11,6 +11,7 @@ And most important of all
 
 ### Anime and Manga I like:
 - [Kimetsu no Yaiba](https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba) (Demon Slayer)
+- Shingeki no Kyojin Attack on Titan
 - [Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai](https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai) (Rascal Does Not Dream of Bunny Girl Senpai)
 ### Games I play:
 ### Other stuff:
