@@ -9,8 +9,7 @@ And most important of all
 - Programming
 ### Programming Details:
 [<img align=left width=30px src="assets/python-logo.png"/>](https://python.org) [<img align=left width=30px src="assets/Godot_icon.svg.png"/>](https://python.org) [<img align=left width=35px src="assets/2048px-Unofficial_JavaScript_logo_2.svg.png"/>](https://python.org) [<img align=left width=30px src="assets/Rust_programming_language_black_logo.svg.png"/>](https://python.org)
-
-
+<br>
 - I make discord bots *using [Pycord](https://github.com/Pycord-Development/pycord)* and games
 - I know Python and GDscript 
 - Currently trying to learn JavaScript 
@@ -22,8 +21,7 @@ And most important of all
 ### Games I play:
 ### Other stuff:
 [<img align=left width=30px src="assets/Logo Discord 2021.png"/>][discordserver] [<img align=left width=30px src="assets/free-reddit-logo-icon-2436-thumb.png"/>][subreddit]
-
-
+<br>
 If you wanna talk with me and chill don't hesitate to add me on [discord][discord] or on [reddit][reddit]!
 
 - Github stats:
