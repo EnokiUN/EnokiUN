@@ -22,7 +22,8 @@ And most important of all
 ### Other stuff:
 [<img align=left width=30px src="assets/Logo Discord 2021.png"/>][discordserver] [<img align=left width=30px src="assets/free-reddit-logo-icon-2436-thumb.png"/>][subreddit]
 <br>
-If you wanna talk with me and chill don't hesitate to add me on [discord][discord] or on [reddit][reddit]!
+- Currently the co-owner of **Aminus** we have a [discord server](discordserver) and a [subreddit](subreddit).
+- If you wanna talk with me and chill don't hesitate to add me on [discord][discord] or on [reddit][reddit]!
 
 - Github stats:
 <img align="left" alt="Enoki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnokiUN&show_icons=true&hide_border=true&theme=radical" />
