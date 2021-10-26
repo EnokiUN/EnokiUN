@@ -23,7 +23,7 @@ And most important of all
 - [Terraria](https://terraria.org)
 - [Rhythm Doctor](https://rhythmdr.com/)
 - [Katana Zero](https://www.katanazero.com/)
-- [Inscryption]()
+- [Inscryption](https://www.inscryption.com/) 🥇 *fav rn*
 - [Osu!](https://osu.ppy.sh)
 - [Enter the Gungeon](https://enterthegungeon.com)
 - [Genshin Impact](https://genshin.mihoyo.com/m/en/) *soon™*
