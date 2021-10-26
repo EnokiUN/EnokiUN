@@ -23,20 +23,21 @@ And most important of all
 - [Terraria](https://terraria.org)
 - [Rhythm Doctor](https://rhythmdr.com/)
 - [Katana Zero](https://www.katanazero.com/)
+- [Inscryption]()
 - [Osu!](https://osu.ppy.sh)
 - [Enter the Gungeon](https://enterthegungeon.com)
 - [Genshin Impact](https://genshin.mihoyo.com/m/en/) *soon™*
 ### Other stuff:
 [<img align=left width=30px src="assets/Logo Discord 2021.png"/>][discordserver] [<img align=left width=30px src="assets/free-reddit-logo-icon-2436-thumb.png"/>][subreddit]
 <br>
-- Currently the co-owner of **Aminus** we have a [discord server](discordserver) and a [subreddit](subreddit).
+- Currently the owner of **AniTaku** we have a [discord server](discordserver) and a [subreddit](subreddit) where we shitpost and fight over 2D girls or worship Russian cookies.
 - If you wanna talk with me and chill don't hesitate to add me on [discord][discord] or on [reddit][reddit]!
 
 - Github stats:
 <img align="left" alt="Enoki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnokiUN&show_icons=true&hide_border=true&theme=radical" />
 
 [discord]: https://discordapp.com/users/559226493553737740
-[discordserver]: https://discord.gg/cfqg2GNy69
+[discordserver]: https://discord.gg/XHjmKCuRp3
 [reddit]: https://www.reddit.com/u/EnokiUN
-[subreddit]: https://www.reddit.com/r/Aminus
+[subreddit]: https://www.reddit.com/r/AniTaku
 
