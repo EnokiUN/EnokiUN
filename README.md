@@ -35,7 +35,7 @@ And most important of all
 
 - Github stats:
 <img align="left" alt="Enoki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnokiUN&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnokiUN&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnokiUN&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)]
 
 [discord]: https://discordapp.com/users/559226493553737740
 [discordserver]: https://discord.gg/XHjmKCuRp3
