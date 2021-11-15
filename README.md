@@ -33,9 +33,9 @@ And most important of all
 - Currently the owner of **AniTaku** we have a [discord server](discordserver) and a [subreddit](subreddit) where we shitpost and fight over 2D girls or worship Russian cookies.
 - If you wanna talk with me and chill don't hesitate to add me on [discord][discord] or on [reddit][reddit]!
 
-- Github stats:
+- Github & Language stats:
 <img align="left" alt="Enoki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnokiUN&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnokiUN )](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Enoki's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnokiUN" />
 
 [discord]: https://discordapp.com/users/559226493553737740
 [discordserver]: https://discord.gg/XHjmKCuRp3
