@@ -2,7 +2,7 @@
 
 ### Info:
 - Intermediate python dev who uses discord and reddit too much.
-- Currently workin on [SUP](https://github.com/EnokiUN/sup) a python module to simplify making interactive text based stories / games.
+- Currently workin on [PSUP](https://github.com/EnokiUN/psup) a python module to simplify making interactive text based stories / games.
 - A Helper in the [Pycord](https://github.com/Pycord-Development/pycord) discord server ([gg./pycord](https://discord.gg/pycord)).
 
 ### Stuff I enjoy/like:
