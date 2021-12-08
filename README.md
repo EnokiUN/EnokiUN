@@ -1,5 +1,8 @@
 ## Whussup, it's me ya boi Enoki.
 
+![Logo](assets/ENOKI_1.png)
+Logo made epikly by the awesome [Alacris]() uwu
+
 ### Info:
 - Intermediate python dev who uses discord and reddit too much.
 - Currently workin on [PSUP](https://github.com/EnokiUN/psup) a python module to simplify making interactive text based stories / games.
