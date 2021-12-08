@@ -1,6 +1,6 @@
 ## Whussup, it's me ya boi Enoki.
 
-![Logo](assets/ENOKI_1.png)
+<img width=300px src="assets/ENOKI_1.png">
 Logo made epikly by the awesome [Alacris](https://www.instagram.com/alacris.devs/) uwu
 
 ### Info:
