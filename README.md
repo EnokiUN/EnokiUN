@@ -4,6 +4,8 @@
 Logo made epikly by the awesome [Alacris](https://www.instagram.com/alacris.devs/) uwu
 
 ### Info:
+[<img align=left width=30px src="https://raw.githubusercontent.com/EnokiUN/psup/main/assets/logo.png"/>](https://github.com/EnokiUN/psup)
+<br>
 - Intermediate python dev who uses discord and reddit too much.
 - Currently workin on [PSUP](https://github.com/EnokiUN/psup) a python module to simplify making interactive text based stories / games.
 - A Helper in the [Pycord](https://github.com/Pycord-Development/pycord) discord server ([gg./pycord](https://discord.gg/pycord)).
