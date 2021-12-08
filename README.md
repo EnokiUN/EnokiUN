@@ -1,7 +1,8 @@
 ## Whussup, it's me ya boi Enoki.
 
 <img width=300px src="assets/ENOKI_1.png">
-Logo made epikly by the awesome [Alacris](https://www.instagram.com/alacris.devs/) uwu
+
+*Logo made epikly by the awesome [Alacris](https://www.instagram.com/alacris.devs) uwu*
 
 ### Info:
 [<img align=left width=30px src="https://raw.githubusercontent.com/EnokiUN/psup/main/assets/logo.png"/>](https://github.com/EnokiUN/psup)
