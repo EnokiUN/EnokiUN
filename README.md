@@ -2,8 +2,6 @@
 
 <img width=200px src="assets/ENOKI_1.png">
 
-*Logo made by the awesome [Alacris](https://www.instagram.com/alacris.devs)*
-
 ### :question: Info:
 [<img align=left width=30px src="https://raw.githubusercontent.com/EnokiUN/psup/main/assets/logo.png"/>](https://github.com/EnokiUN/psup)[<img align=left width=30px src="assets/python-logo.png"/>](https://python.org) [<img align=left width=30px src="assets/Godot_icon.svg.png"/>](https://godotengine.org) [<img align=left width=35px src="assets/2048px-Unofficial_JavaScript_logo_2.svg.png"/>](https://javascript.com) [<img align=left width=30px src="assets/Rust_programming_language_black_logo.svg.png"/>](https://rust-lang.org)
 <br>
@@ -17,6 +15,8 @@
 - :chart_with_upwards_trend: Github & Language stats:
 <img align="left" alt="Enoki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnokiUN&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 <img align="left" alt="Enoki's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnokiUN&hide_border=true&theme=tokyonight" />
+
+*Logo made by the awesome [Alacris](https://www.instagram.com/alacris.devs)*
 
 [discord]: https://discordapp.com/users/559226493553737740
 [reddit]: https://www.reddit.com/u/EnokiUN
