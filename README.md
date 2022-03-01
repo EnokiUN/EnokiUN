@@ -7,7 +7,8 @@
 <br>
 - :thinking: Intermediate Programmer who uses discord and reddit too much.
 - :rocket: Currently working on [PSUP](https://github.com/EnokiUN/psup) a python module to simplify making interactive text based stories / games.
-- :robot: I make discord bots *using [Pycord](https://github.com/Pycord-Development/pycord)* and games
+- :robot: I make discord bots *using [Pycord](https://github.com/Pycord-Development/pycord)*.
+- :video_game: I make games using the Godot Game Engine.
 - :comet: I know Python, JavaScript, Typescript and GDscript
 - :moyai: Currently learning Rust (amazing language btw).
 - :mailbox_closed: If you wanna talk to me for any reason like asking a question, seeking help, looking for partners or just passing time don't hesitate to add me on [discord][discord], [twitter][twitter] or on [reddit][reddit]!
