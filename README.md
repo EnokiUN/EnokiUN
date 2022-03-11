@@ -16,6 +16,7 @@
 - :chart_with_upwards_trend: Github & Language stats:
 <img align="left" alt="Enoki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnokiUN&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 <img align="left" alt="Enoki's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnokiUN&hide_border=true&theme=tokyonight" />
+<img align="lef5" alt="Enoki's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=EnokiUN&theme=tokyonight&hide_border=true&stroke=1a1b27" />
 
 *Logo made by the awesome [Alacris](https://www.instagram.com/alacris.devs)*
 
