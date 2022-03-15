@@ -3,7 +3,7 @@
 <img width=200px src="assets/ENOKI_1.png">
 
 ### :question: Info:
-[<img align=left width=30px src="https://raw.githubusercontent.com/EnokiUN/psup/main/assets/logo.png"/>](https://github.com/EnokiUN/psup)[<img align=left width=30px src="assets/python-logo.png"/>](https://python.org) [<img align=left width=30px src="assets/Godot_icon.svg.png"/>](https://godotengine.org) [<img align=left width=35px src="assets/2048px-Unofficial_JavaScript_logo_2.svg.png"/>](https://javascript.com) [<img align=left width=30px src="assets/Rust_programming_language_black_logo.svg.png"/>](https://rust-lang.org)
+[<img align=left width=30px src="/assets/voltage.png"/>](https://github.com/EnokiUN/psup)[<img align=left width=30px src="assets/python-logo.png"/>](https://python.org) [<img align=left width=30px src="assets/Godot_icon.svg.png"/>](https://godotengine.org) [<img align=left width=35px src="assets/2048px-Unofficial_JavaScript_logo_2.svg.png"/>](https://javascript.com) [<img align=left width=30px src="assets/Rust_programming_language_black_logo.svg.png"/>](https://rust-lang.org)
 <br>
 - :thinking: Intermediate Programmer who uses discord and reddit too much.
 - :rocket: Currently working on [Voltage](https://github.com/EnokiUN/voltage) a Simple Pythonic Asynchronous api wrapper for [Revolt](https://revolt.chat).
