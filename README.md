@@ -7,7 +7,6 @@
 <br>
 - :thinking: Intermediate Programmer who uses discord and reddit too much.
 - :rocket: Currently working on [Voltage](https://github.com/EnokiUN/voltage) a Simple Pythonic Asynchronous api wrapper for [Revolt](https://revolt.chat).
-- :robot: I make discord bots *using [Pycord](https://github.com/Pycord-Development/pycord)*.
 - :video_game: I make games using the Godot Game Engine.
 - :comet: I know Python, JavaScript, Typescript and GDscript
 - :moyai: Currently learning Rust (amazing language btw).
