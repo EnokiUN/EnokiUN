@@ -9,7 +9,3 @@ jobs:
       - uses: EnokiUN/metrics@latest
         with:
           token: ${{ secrets.METRICS_KEY }}
-          extra_css: |
-              body {
-                background-color: #1A1B27
-              }
