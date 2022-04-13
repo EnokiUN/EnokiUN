@@ -1,4 +1,6 @@
-## :wave: Hey there, it's me ya boi Enoki.
+## :wave: Hey there, I'm Enoki.
+
+An aspiring open source developer who tends to take on way too many projects at a time and is slowly getting obsessed with reverse engineering.
 
 <img width=200px src="assets/ENOKI_1.png">
 
