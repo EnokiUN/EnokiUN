@@ -1,4 +1,4 @@
-## :wave: Whussup, it's me ya boi Enoki.
+## :wave: Hey there, it's me ya boi Enoki.
 
 <img width=200px src="assets/ENOKI_1.png">
 
