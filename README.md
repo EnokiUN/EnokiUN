@@ -1,4 +1,6 @@
-<img align="center" width=200px src="assets/enoki.png">
+<p style="align-content: center;">
+    <img width=200px src="assets/enoki.png">
+</p>
 
 ## :wave: Hey there, I'm Enoki.
 
