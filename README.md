@@ -19,6 +19,10 @@
 
 :trollface: Having a serious conversation with me is near impossible but feel free to add me on any of my socials if you need anything. (look at the top)
 
+#### Tools
+
+[![Arch Linux](https://img.shields.io/static/v1?&label=%20&style=for-the-badge&message=Arch%20Linux&logo=archlinux&color=00ffff&labelColor=00ffff)][arch]
+
 #### Stats & Metrics:
 <img align="left" alt="Enoki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnokiUN&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 <img align="left" alt="Enoki's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnokiUN&hide_border=true&theme=tokyonight" />
@@ -31,10 +35,12 @@
 [twitter]: https://twitter.com/EnokiUN/
 
 [voltage]: https://github.com/EnokiUN/voltage/
+
 [python]: https://python.org/
 [godot]: https://godotengine.org/
 [javascript]: https://javascript.com/
 [typescript]: https://typescriptlang.org/
 [rust]: https://rust-lang.org/
+[arch]: https://archlinux.org/
 
 *side note: click my pfp at the top for a surprise*
