@@ -1,6 +1,10 @@
 <p align="center">
-  <img width=200px src="assets/enoki.png">
-  <a href="https://matrix.to/#/@enokiun:matrix.org"><img src="https://img.shields.io/static/v1?&label=%20&style=for-the-badge&message=Matrix&logo=matrix&color=00ffff&labelColor=00ffff" /></a>
+  <a href="https://youtu.be/dQw4w9WgXcQ"><img width=200px src="assets/enoki.png" /></a>
+  <br>
+  <a href="https://matrix.to/#/@enokiun:matrix.org"><img src="https://img.shields.io/static/v1?&label=%20&style=for-the-badge&message=Matrix&logo=matrix&color=000000&labelColor=000000" /></a>
+  <a href="https://reddit.com/u/enokiun"><img src="https://img.shields.io/static/v1?&label=%20&style=for-the-badge&message=Reddit&logo=reddit&logoColor=ff5700&color=121212&labelColor=121212" /></a>
+  <a href="https://twitter.com/enokiun"><img src="https://img.shields.io/static/v1?&label=%20&style=for-the-badge&message=Twitter&logo=twitter&color=15202b&labelColor=15202b" /></a>
+  <a href="https://discordapp.com/users/559226493553737740/"><img src="https://img.shields.io/static/v1?&label=%20&style=for-the-badge&message=Discord&logo=discord&color=363934&labelColor=363934" /></a>
 </p>
 
 ## :wave: Hey there, I'm Enoki.
