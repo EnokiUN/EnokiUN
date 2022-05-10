@@ -11,7 +11,7 @@
 
 \- Probably Eren Jeager.
 
-## :wave: Hey there, I'm Enoki.
+### Hey there, I'm Enoki.
 
 :moyai: An aspiring open source developer who tends to take on way too many projects at once and has an anime addiction.
 
@@ -19,7 +19,7 @@
 
 :trollface: Having a serious conversation with me is near impossible but feel free to add me on any of my socials if you need anything. (look at the top)
 
-### :chart_with_upwards_trend: Stats & Metrics:
+#### Stats & Metrics:
 <img align="left" alt="Enoki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnokiUN&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 <img align="left" alt="Enoki's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnokiUN&hide_border=true&theme=tokyonight" />
 <img align="left" alt="Enoki's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=EnokiUN&theme=tokyonight&hide_border=true&stroke=1a1b27" />
