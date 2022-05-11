@@ -37,9 +37,9 @@ Notable Mentions:
 [![Docker](https://shields.io/static/v1?label=Docker&style=for-the-badge&message=Containers&logo=docker&color=333999&labelColor=333999)][docker]
  
 #### Stats & Metrics:
-<img align="left" alt="Enoki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnokiUN&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img align="left" alt="Enoki's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnokiUN&hide_border=true&theme=tokyonight" />
-<img align="left" alt="Enoki's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=EnokiUN&theme=tokyonight&hide_border=true&stroke=1a1b27" />
+<!--- <img align="left" alt="Enoki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnokiUN&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" /> --->
+<!--- <img align="left" alt="Enoki's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnokiUN&hide_border=true&theme=tokyonight" /> --->
+<!--- <img align="left" alt="Enoki's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=EnokiUN&theme=tokyonight&hide_border=true&stroke=1a1b27" /> --->
 <img align="left" alt="Enoki's GitHub Metrics" src="github-metrics.svg" />
 
 [discord]: https://discordapp.com/users/559226493553737740/
