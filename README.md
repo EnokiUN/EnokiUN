@@ -24,9 +24,14 @@
 [![Arch Linux](https://shields.io/static/v1?label=Arch%20Linux&style=for-the-badge&message=OS&logo=archlinux&color=333333&labelColor=333333)][arch]
 [![Gnu Emacs](https://shields.io/static/v1?label=Emacs&style=for-the-badge&message=Editor&logo=gnuemacs&color=333333&labelColor=333333)][emacs]
 [![Neovim](https://shields.io/static/v1?label=Neovim&style=for-the-badge&message=Editor&logo=neovim&color=333333&labelColor=333333)][neovim]
+[![Rust](https://shields.io/static/v1?label=Rust&style=for-the-badge&message=Language&logo=rust&color=444444&labelColor=444444)][rust]
+[![Python](https://shields.io/static/v1?label=Python&style=for-the-badge&message=Language&logo=python&color=444444&labelColor=444444)][python]
+[![Javascript](https://shields.io/static/v1?label=Javascript&style=for-the-badge&message=Language&logo=javascript&color=444444&labelColor=444444)][javascript]
+[![Typescript](https://shields.io/static/v1?label=Typescript&style=for-the-badge&message=Language&logo=typescript&color=444444&labelColor=444444)][typescript]
+[![Godot](https://shields.io/static/v1?label=Godot&style=for-the-badge&message=Game%20Engine&logo=godotengine&color=444444&labelColor=444444)][godot]
 
 Notable Mentions:
-[![Docker](https://shields.io/static/v1?label=Docker&style=for-the-badge&message=Containers&logo=docker&color=333333&labelColor=333333)][docker]
+[![Docker](https://shields.io/static/v1?label=Docker&style=for-the-badge&message=Containers&logo=docker&color=333999&labelColor=333999)][docker]
  
 #### Stats & Metrics:
 <img align="left" alt="Enoki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnokiUN&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
