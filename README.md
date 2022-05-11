@@ -21,7 +21,7 @@
 
 #### Tools
 
-[![Arch Linux](https://img.shields.io/static/v1?&label=%20&style=for-the-badge&message=Arch%20Linux&logo=archlinux&color=00ffff&labelColor=00ffff)][arch]
+[![Arch Linux](https://shields.io/static/v1?label=%20&style=for-the-badge&message=Arch%20Linux&logo=archlinux&color=333333&labelColor=333333)][arch]
 
 #### Stats & Metrics:
 <img align="left" alt="Enoki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnokiUN&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
