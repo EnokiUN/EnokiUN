@@ -19,6 +19,8 @@
 
 :trollface: Having a serious conversation with me is near impossible but feel free to add me on any of my socials if you need anything. (look at the top)
 
+:rocket: I'm the fastest at making bugs, somewhere in the top 100k at fixing them tho.
+
 #### Tools
 
 [![Arch Linux](https://shields.io/static/v1?label=Arch%20Linux&style=for-the-badge&message=OS&logo=archlinux&color=333333&labelColor=333333)][arch]
@@ -31,6 +33,7 @@
 [![Godot](https://shields.io/static/v1?label=Godot&style=for-the-badge&message=Game%20Engine&logo=godotengine&color=444444&labelColor=444444)][godot]
 
 Notable Mentions:
+
 [![Docker](https://shields.io/static/v1?label=Docker&style=for-the-badge&message=Containers&logo=docker&color=333999&labelColor=333999)][docker]
  
 #### Stats & Metrics:
