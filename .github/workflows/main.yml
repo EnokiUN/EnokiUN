@@ -18,7 +18,7 @@ jobs:
           plugin_languages_categories: programming
           
           plugin_habits: yes
-          plugin_habits_facts:yes
+          plugin_habits_facts: yes
           plugin_habits_charts: yes
 
           plugin_code: yes
