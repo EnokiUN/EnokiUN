@@ -19,7 +19,7 @@
 
 :trollface: Having a serious conversation with me is near impossible but feel free to add me on any of my socials if you need anything. (look at the top)
 
-:rocket: I'm the fastest at making bugs, somewhere in the top 100k at fixing them tho.
+:rocket: I'm the fastest at making bugs, somewhere in the top 100 million when it comes to fixing them tho.
 
 #### Tools
 
