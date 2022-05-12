@@ -35,7 +35,8 @@
 Notable Mentions:
 
 [![Docker](https://shields.io/static/v1?label=Docker&style=for-the-badge&message=Containers&logo=docker&color=333999&labelColor=333999)][docker]
- 
+[![MariaDB](https://shields.io/static/v1?label=MariaDB&style=for-the-badge&message=Database&logo=mariadb&color=333999&labelColor=333999)][mariadb]
+
 #### Stats & Metrics:
 <!--- <img align="left" alt="Enoki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnokiUN&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" /> --->
 <!--- <img align="left" alt="Enoki's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnokiUN&hide_border=true&theme=tokyonight" /> --->
@@ -59,5 +60,6 @@ Notable Mentions:
 [emacs]: https://www.gnu.org/software/emacs/
 [neovim]: https://neovim.io/
 [docker]: https://docker.com/
+[mariadb]: https://mariadb.org/
 
 *side note: click my pfp at the top for a surprise*
