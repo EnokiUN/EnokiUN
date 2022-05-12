@@ -34,8 +34,9 @@
 
 Notable Mentions:
 
-[![Docker](https://shields.io/static/v1?label=Docker&style=for-the-badge&message=Containers&logo=docker&color=333999&labelColor=333999)][docker]
-[![MariaDB](https://shields.io/static/v1?label=MariaDB&style=for-the-badge&message=Database&logo=mariadb&color=333999&labelColor=333999)][mariadb]
+[![Docker](https://shields.io/static/v1?label=Docker&style=for-the-badge&message=Containers&logo=docker&color=333669&labelColor=333669)][docker]
+[![MariaDB](https://shields.io/static/v1?label=MariaDB&style=for-the-badge&message=Database&logo=mariadb&color=333669&labelColor=333669)][mariadb]
+[![Vue.js](https://shields.io/static/v1?label=Vue%20%2B%20ts&style=for-the-badge&message=Web%20Framework&logo=vuedotjs&color=333669&labelColor=333669)][vue]
 
 #### Stats & Metrics:
 <!--- <img align="left" alt="Enoki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnokiUN&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" /> --->
@@ -61,5 +62,6 @@ Notable Mentions:
 [neovim]: https://neovim.io/
 [docker]: https://docker.com/
 [mariadb]: https://mariadb.org/
+[vue]: https://vuejs.org/
 
 *side note: click my pfp at the top for a surprise*
