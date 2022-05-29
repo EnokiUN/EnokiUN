@@ -19,7 +19,7 @@
 
 :trollface: Having a serious conversation with me is near impossible but feel free to add me on any of my socials if you need anything. (look at the top)
 
-:rocket: I'm the fastest at making bugs, somewhere in the top 100 million when it comes to fixing them tho.
+:rocket: I'm the fastest at making bugs, somewhere in the top 100 million when it comes to fixing them tho. (Even though only [27 million](https://www.daxx.com/blog/development-trends/number-software-developers-world) programmers exist :lol:)
 
 #### Tools
 
@@ -63,5 +63,7 @@ Notable Mentions:
 [docker]: https://docker.com/
 [mariadb]: https://mariadb.org/
 [vue]: https://vuejs.org/
+
+Olivier, ***IS THIS QUIET ENOUGH?***
 
 *side note: click my pfp at the top for a surprise*
