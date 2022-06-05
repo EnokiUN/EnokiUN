@@ -477,22 +477,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">RenderScript</span>
-                                <div class="bar" style="width: 22.356122054847432%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 22.255755465273744%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">28%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 5.448693189133513%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.4581801766943965%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 0.8960988798764001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.89765912168698%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.25749967812540236%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.2579480234732701%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2548,7 +2548,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jun 2022, 14:11:47  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 5 Jun 2022, 15:12:26  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
