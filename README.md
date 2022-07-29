@@ -66,6 +66,8 @@ Notable Mentions:
 
 Olivier, ***IS THIS QUIET ENOUGH?***
 
-"Unix is simple, it just needs a genius to understand it's simplicity." 
+> *"UNIX is very simple, it just needs a genius to understand its simplicity."*
+
+\- Dennis M. Ritchie
 
 *side note: click my pfp at the top for a surprise*
