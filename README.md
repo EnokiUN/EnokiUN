@@ -7,13 +7,13 @@
   <a href="https://discordapp.com/users/559226493553737740/"><img src="https://img.shields.io/static/v1?&label=%20&style=for-the-badge&message=Discord&logo=discord&color=363934&labelColor=363934" /></a>
 </p>
 
-> *“I will keep advancing forward....... untill all the bugs are destroyed.”*
+> *“I will keep advancing forward....... untill all my bugs are exterminated.”*
 
 \- Probably Eren Jeager.
 
 ### Hey there, I'm Enoki.
 
-:moyai: An aspiring open source developer who tends to take on way too many projects at once and has an anime addiction.
+:moyai: An open source developer and freelancer.
 
 :thinking: I'm starting to get more and more absorbed into the magic of assembly and reverse engineering, not that I'm good at it.
 
@@ -65,5 +65,7 @@ Notable Mentions:
 [vue]: https://vuejs.org/
 
 Olivier, ***IS THIS QUIET ENOUGH?***
+
+"Unix is simple, it just needs a genius to understand it's simplicity." 
 
 *side note: click my pfp at the top for a surprise*
