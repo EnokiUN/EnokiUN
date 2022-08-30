@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1477" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1504" class="">
     <defs>
         <style/>
     </defs>
@@ -477,42 +477,42 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 11.92878338278932%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
+                                <div class="bar" style="width: 10.87588772404464%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">14%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Astro</span>
+                                <div class="bar" style="width: 9.225566452485626%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Rust</span>
-                                <div class="bar" style="width: 7.51730959446093%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.853793258933604%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">9%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">RenderScript</span>
-                                <div class="bar" style="width: 5.52917903066271%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <div class="bar" style="width: 5.041145304926164%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 3.600395647873393%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 3.2826062450682%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Dockerfile</span>
-                                <div class="bar" style="width: 2.739861523244312%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Astro</span>
-                                <div class="bar" style="width: 2.3738872403560833%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.4980272799008003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Vim Script</span>
-                                <div class="bar" style="width: 1.1275964391691393%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.0280689888400405%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Lua</span>
-                                <div class="bar" style="width: 0.5143422354104846%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.4689437492954571%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -2562,7 +2562,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">a94ad4df</span>
-                            <span class="code">src/pages/index.astro</span>
+                            <span class="code">src/layouts/BlogPost.astro</span>
                             <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
@@ -2570,14 +2570,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -5,7 +5,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;Base&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"> &lt;main&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;div id="logo-container"&gt;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  &lt;img id="logo" src="/das_ding.png" /&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  &lt;img id="logo" src="/das_ding.png" alt="The Eludris logo, Das Ding."/&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  &lt;div id="logo-text"&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">    &lt;h1&gt;Eludris&lt;/h1&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">	&lt;h2&gt;Get Good&lt;/h2&gt;</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -19,7 +19,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;Base title={`Eludris Blog | ${title}`} description={description}&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;main&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">  &lt;article&gt;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">	{heroImage &amp;&amp; (&lt;img width={720} height={360} src={heroImage} alt="" /&gt;)}<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">	{heroImage &amp;&amp; (&lt;img width={720} height={360} src={heroImage} alt="hero image" /&gt;)}<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">	&lt;h1 class="title"&gt;{title}&lt;/h1&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">	{pubDate &amp;&amp; &lt;time&gt;{pubDate}&lt;/time&gt;}<br /></span><span class="token prefix unchanged">·</span><span class="token line">	{updatedDate &amp;&amp; &lt;div&gt;Last updated on &lt;time&gt;{updatedDate}&lt;/time&gt;&lt;/div&gt;}</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Aug 2022, 14:14:40  with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 30 Aug 2022, 15:14:10  with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
