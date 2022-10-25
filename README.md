@@ -11,34 +11,35 @@
 
 \- Probably Eren Jeager.
 
-### Hey there, I'm Enoki.
+## :wave: Hey there, I'm Enoki.
 
-:moyai: An open source developer and freelancer.
+A highschool student who likes working on FOSS projects as a hobby and a minor addiction.
 
-:thinking: I'm starting to get more and more absorbed into the magic of assembly and reverse engineering, not that I'm good at it.
+You can find more information about me over on my [website](https://ensite-ad7.pages.dev/), here are some main points however:
 
-:trollface: Having a serious conversation with me is near impossible but feel free to add me on any of my socials if you need anything. (look at the top)
+- I am always up for working on new projects, be it comissions, team projects, random ideas ranging from genius to plain stupid and so on.
+- I dabble with everything from relatively low level OS-dev to APIs, frontend, ML and everything in between, I find it really fun.
+- I generally find more challenging projects fun which is why you'll always find me trying to tackle new things I'm not all that familliar with.
 
-:rocket: I'm the fastest at making bugs, somewhere in the top 100 million when it comes to fixing them tho. (Even though only [27 million](https://www.daxx.com/blog/development-trends/number-software-developers-world) programmers exist :lol:)
+And while you're here, why don't you check out the fully FOSS, e2ee encrypted social media platform I'm working on over at [eludris](https://github.com/eludris/eludris/) <img width="30em" src="https://github.com/eludris/.github/blob/main/assets/thang-big.png" />
 
-#### Tools
+### Tools I *Actively* Use
 
+This is a list of "tools" I use atleast once a week
+
+[![Rust](https://shields.io/static/v1?label=Rust&style=for-the-badge&message=Language&logo=rust&color=111111&labelColor=111111)][rust]
+[![Python](https://shields.io/static/v1?label=Python&style=for-the-badge&message=Language&logo=python&color=111111&labelColor=111111)][python]
+[![Typescript](https://shields.io/static/v1?label=Typescript&style=for-the-badge&message=Language&logo=typescript&color=111111&labelColor=111111)][typescript]
+[![Crystal](https://shields.io/static/v1?label=Crystal&style=for-the-badge&message=Language&logo=crystal&color=111111&labelColor=111111)][crystal]
+[![Godot](https://shields.io/static/v1?label=Godot&style=for-the-badge&message=Game%20Engine&logo=godotengine&color=111111&labelColor=111111)][godot]
+[![Astro](https://shields.io/static/v1?label=Astro&style=for-the-badge&message=%22Framework%22&logo=astro&color=111111&labelColor=111111)][astro]
+[![Docker](https://shields.io/static/v1?label=Docker&style=for-the-badge&message=Containers&logo=docker&color=222222&labelColor=222222)][docker]
+[![MariaDB](https://shields.io/static/v1?label=MariaDB&style=for-the-badge&message=Database&logo=mariadb&color=222222&labelColor=222222)][mariadb]
+[![KeyDB](https://shields.io/static/v1?label=KeyDB%20%26%20Redis&style=for-the-badge&message=Database&logo=redis&color=222222&labelColor=222222)][keydb]
 [![Arch Linux](https://shields.io/static/v1?label=Arch%20Linux&style=for-the-badge&message=OS&logo=archlinux&color=333333&labelColor=333333)][arch]
-[![Gnu Emacs](https://shields.io/static/v1?label=Emacs&style=for-the-badge&message=Editor&logo=gnuemacs&color=333333&labelColor=333333)][emacs]
 [![Neovim](https://shields.io/static/v1?label=Neovim&style=for-the-badge&message=Editor&logo=neovim&color=333333&labelColor=333333)][neovim]
-[![Rust](https://shields.io/static/v1?label=Rust&style=for-the-badge&message=Language&logo=rust&color=444444&labelColor=444444)][rust]
-[![Python](https://shields.io/static/v1?label=Python&style=for-the-badge&message=Language&logo=python&color=444444&labelColor=444444)][python]
-[![Javascript](https://shields.io/static/v1?label=Javascript&style=for-the-badge&message=Language&logo=javascript&color=444444&labelColor=444444)][javascript]
-[![Typescript](https://shields.io/static/v1?label=Typescript&style=for-the-badge&message=Language&logo=typescript&color=444444&labelColor=444444)][typescript]
-[![Godot](https://shields.io/static/v1?label=Godot&style=for-the-badge&message=Game%20Engine&logo=godotengine&color=444444&labelColor=444444)][godot]
 
-Notable Mentions:
-
-[![Docker](https://shields.io/static/v1?label=Docker&style=for-the-badge&message=Containers&logo=docker&color=333669&labelColor=333669)][docker]
-[![MariaDB](https://shields.io/static/v1?label=MariaDB&style=for-the-badge&message=Database&logo=mariadb&color=333669&labelColor=333669)][mariadb]
-[![Vue.js](https://shields.io/static/v1?label=Vue%20%2B%20ts&style=for-the-badge&message=Web%20Framework&logo=vuedotjs&color=333669&labelColor=333669)][vue]
-
-#### Stats & Metrics:
+### Stats, Metrics & Additional Notes:
 <!--- <img align="left" alt="Enoki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnokiUN&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" /> --->
 <!--- <img align="left" alt="Enoki's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnokiUN&hide_border=true&theme=tokyonight" /> --->
 <!--- <img align="left" alt="Enoki's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=EnokiUN&theme=tokyonight&hide_border=true&stroke=1a1b27" /> --->
@@ -49,20 +50,18 @@ Notable Mentions:
 [matrix]: https://matrix.to/#/@enokun:matrix.org/
 [twitter]: https://twitter.com/EnokiUN/
 
-[voltage]: https://github.com/EnokiUN/voltage/
-
 [python]: https://python.org/
 [godot]: https://godotengine.org/
-[javascript]: https://javascript.com/
 [typescript]: https://typescriptlang.org/
 [rust]: https://rust-lang.org/
+[crystal]: https://crystal-lang.org/
+[astro]: https://astro.build/
 
 [arch]: https://archlinux.org/
-[emacs]: https://www.gnu.org/software/emacs/
 [neovim]: https://neovim.io/
 [docker]: https://docker.com/
 [mariadb]: https://mariadb.org/
-[vue]: https://vuejs.org/
+[keydb]: https://docs.keydb.dev/
 
 Olivier, ***IS THIS QUIET ENOUGH?***
 
