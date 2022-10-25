@@ -17,7 +17,7 @@ A highschool student who likes working on FOSS projects as a hobby and a minor a
 
 You can find more information about me over on my [website](https://ensite-ad7.pages.dev/), here are some main points however:
 
-- I am always up for working on new projects, be it comissions, team projects, random ideas ranging from genius to plain stupid and so on.
+- I am always up for working on new projects, be it commissions, team projects, random ideas ranging from genius to plain stupid and so on.
 - I dabble with everything from relatively low level OS-dev to APIs, frontend, ML and everything in between, I find it really fun.
 - I generally find more challenging projects fun which is why you'll always find me trying to tackle new things I'm not all that familliar with.
 
@@ -33,11 +33,11 @@ This is a list of "tools" I use atleast once a week
 [![Crystal](https://shields.io/static/v1?label=Crystal&style=for-the-badge&message=Language&logo=crystal&color=111111&labelColor=111111)][crystal]
 [![Godot](https://shields.io/static/v1?label=Godot&style=for-the-badge&message=Game%20Engine&logo=godotengine&color=111111&labelColor=111111)][godot]
 [![Astro](https://shields.io/static/v1?label=Astro&style=for-the-badge&message=%22Framework%22&logo=astro&color=111111&labelColor=111111)][astro]
-[![Docker](https://shields.io/static/v1?label=Docker&style=for-the-badge&message=Containers&logo=docker&color=222222&labelColor=222222)][docker]
-[![MariaDB](https://shields.io/static/v1?label=MariaDB&style=for-the-badge&message=Database&logo=mariadb&color=222222&labelColor=222222)][mariadb]
-[![KeyDB](https://shields.io/static/v1?label=KeyDB%20%26%20Redis&style=for-the-badge&message=Database&logo=redis&color=222222&labelColor=222222)][keydb]
-[![Arch Linux](https://shields.io/static/v1?label=Arch%20Linux&style=for-the-badge&message=OS&logo=archlinux&color=333333&labelColor=333333)][arch]
-[![Neovim](https://shields.io/static/v1?label=Neovim&style=for-the-badge&message=Editor&logo=neovim&color=333333&labelColor=333333)][neovim]
+[![Docker](https://shields.io/static/v1?label=Docker&style=for-the-badge&message=Containers&logo=docker&color=1a1a1a&labelColor=1a1a1a)][docker]
+[![MariaDB](https://shields.io/static/v1?label=MariaDB&style=for-the-badge&message=Database&logo=mariadb&color=1a1a1a&labelColor=1a1a1a)][mariadb]
+[![KeyDB](https://shields.io/static/v1?label=KeyDB%20%26%20Redis&style=for-the-badge&message=Database&logo=redis&color=1a1a1a&labelColor=1a1a1a)][keydb]
+[![Arch Linux](https://shields.io/static/v1?label=Arch%20Linux&style=for-the-badge&message=OS&logo=archlinux&color=222222&labelColor=222222)][arch]
+[![Neovim](https://shields.io/static/v1?label=Neovim&style=for-the-badge&message=Editor&logo=neovim&color=222222&labelColor=222222)][neovim]
 
 ### Stats, Metrics & Additional Notes:
 <!--- <img align="left" alt="Enoki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnokiUN&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" /> --->
