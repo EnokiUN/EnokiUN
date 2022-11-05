@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1495" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1442" class="">
     <defs>
         <style/>
     </defs>
@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 1.65mb of code in 309 edited files across 579 commits</small>
+                <small>estimation from 1.65mb of code in 317 edited files across 589 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="260.9171906484426" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="260.9171906484426" y="0" width="117.10507149620062" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="378.0222621446432" y="0" width="25.685222500060693" height="8" fill="#199f4b"/>
-                    <rect mask="url(#languages-bar)" x="403.7074846447039" y="0" width="19.25554125901289" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="422.96302590371675" y="0" width="13.28372702774878" height="8" fill="#c065db"/>
-                    <rect mask="url(#languages-bar)" x="436.24675293146555" y="0" width="8.473331553009153" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="444.7200844844747" y="0" width="7.993129567138452" height="8" fill="#355570"/>
-                    <rect mask="url(#languages-bar)" x="452.71321405161314" y="0" width="7.286785948386783" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="262.08076856354944" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="262.08076856354944" y="0" width="115.42032314603784" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="377.50109170958734" y="0" width="25.315698484766912" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="402.8167901943542" y="0" width="18.978518744504065" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="421.7953089388583" y="0" width="13.092618846795757" height="8" fill="#c065db"/>
+                    <rect mask="url(#languages-bar)" x="434.8879277856541" y="0" width="10.051983322266688" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="444.93991110792075" y="0" width="7.878135300205181" height="8" fill="#355570"/>
+                    <rect mask="url(#languages-bar)" x="452.81804640812595" y="0" width="7.181953591874091" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2547,7 +2547,7 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">EnokiUN/pydris</span>
+                            <span class="blue space">EnokiUN/dummyserver</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -2555,7 +2555,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 2 Nov 2022, 06:28:34
+                            On 3 Nov 2022, 13:58:15
                         </div>
                     </section>
                 </div>
@@ -2565,29 +2565,29 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            feat: add rest of command framework
+                            chore: correct LICENSE
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">bdb69713</span>
-                            <span class="code">pydris/__init__.py</span>
-                            <span class="code"><span class="snippet additions">++4</span> <span class="snippet deletions">--1</span></span>
+                            <span class="code">9027f5a0</span>
+                            <span class="code">LICENSE</span>
+                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,7 +1,10 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"""A simple asynchronous pythonic wrapper for the Eludris API."""<br /></span><span class="token prefix unchanged">·</span><span class="token line"># pyright: strict<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">__all__ = ["Message", "MessagePayload", "MessageResponse", "Client"]<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">__all__ = ["Message", "MessagePayload", "MessageResponse", "Client",<br /></span><span class="token prefix inserted">+</span><span class="token line">          "Command", "Param", "param", "StringParser", "NumberParser",<br /></span><span class="token prefix inserted">+</span><span class="token line">          "BoolParser"]<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">from .models import Message, MessagePayload, MessageResponse<br /></span><span class="token prefix unchanged">·</span><span class="token line">from .client import Client<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">from .commands import Command, Param, param, StringParser, NumberParser, BoolParser</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,6 +1,6 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">MIT License<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">Copyright (c) 2022-present Enoki<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">Copyright (c) 2022-present EnokiUN<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">Permission is hereby granted, free of charge, to any person obtaining a copy<br /></span><span class="token prefix unchanged">·</span><span class="token line">of this software and associated documentation files (the "Software"), to deal</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Nov 2022, 05:12:22  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 5 Nov 2022, 06:17:00  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
