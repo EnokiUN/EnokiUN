@@ -2514,7 +2514,7 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">EnokiUN/uwuki</span>
+                            <span class="blue space">Eludris/oprish</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -2522,7 +2522,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 1 Dec 2022, 11:22:00
+                            On 3 Dec 2022, 11:42:16
                         </div>
                     </section>
                 </div>
@@ -2532,29 +2532,107 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            deps: update eludrs
+                            feat: update main (#5)
+
+* chore: add Eludris.toml to .gitignore
+
+* deps: update dependencies
+
+* feat: switch to using todel::Conf
+
+* deps: update dependencies
+
+* feat: make Ratelimiter use todel::Conf
+
+* refactor: improve how the message_create route works
+
+* feat: add ratelimiting to the info route
+
+* feat: add ratelimits route
+
+* deps: update dependencies
+
+* chore: make tests works
+
+* fix: fix tests
+
+* chore: bump version
+
+* feat: improve how database urls are obtained
+
+* feat: switch to using gateway::Payload objects
+
+* test: update tests
+
+* fix: fix cache pool name
+
+* test: fix tests
+
+* deps: update dependencies
+
+* feat: improve ratelimit handling
+
+* feat: improve ratelimit handling for routes
+
+* fix: fix new message route return type
+
+* test: fix tests
+
+* fix: appease Clippy
+
+* refactor: appease Clippy
+
+* chore: directly pass conf
+
+* feat: add context to starting rocket
+
+* feat: read env and enable logging in rocket function
+
+* feat: move back to rocket's event loop
+
+* fix: fix cors
+
+* deps: update todel
+
+* feat: update todel
+
+* test: fix tests
+
+* deps: update todel
+
+* chore: add README.md
+
+* ci: improve ci
+
+* feat: update InstanceInfo
+
+* chore: update version
+
+* feat: add effis max file sizes to info payload
+
+* test: fix tests
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">b5eecd8b</span>
-                            <span class="code">Cargo.lock</span>
-                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--0</span></span>
+                            <span class="code">86ae24f2</span>
+                            <span class="code">src/routes/mod.rs</span>
+                            <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -267,6 +267,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">[[package]]<br /></span><span class="token prefix unchanged">·</span><span class="token line">name = "eludrs"<br /></span><span class="token prefix unchanged">·</span><span class="token line">version = "0.1.0"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">source = "git+https://github.com/enokiun/eludrs#b8468cba3d12596e7782fdf26bdc163d58c67899"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">dependencies = [<br /></span><span class="token prefix unchanged">·</span><span class="token line">"futures",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"log",</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -25,6 +25,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    oprish_url: conf.oprish.url.clone(),<br /></span><span class="token prefix unchanged">·</span><span class="token line">    pandemonium_url: conf.pandemonium.url.clone(),<br /></span><span class="token prefix unchanged">·</span><span class="token line">    effis_url: conf.effis.url.clone(),<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    file_size: conf.effis.file_size,<br /></span><span class="token prefix inserted">+</span><span class="token line">    attachment_file_size: conf.effis.attachment_file_size,<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">}))<br /></span><span class="token prefix unchanged">·</span><span class="token line">}<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Dec 2022, 02:19:53  with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 4 Dec 2022, 03:13:38  with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
