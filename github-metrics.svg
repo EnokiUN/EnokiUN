@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1326" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1406" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3187 Commits
+                            3189 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 10.5mb of code in 3081 edited files across 1830 commits</small>
+                <small>estimation from 10.5mb of code in 3085 edited files across 1832 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="253.26315406634689" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="253.26315406634689" y="0" width="132.29248944208874" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="385.5556435084356" y="0" width="57.22173966993424" height="8" fill="#199f4b"/>
-                    <rect mask="url(#languages-bar)" x="442.7773831783698" y="0" width="4.180055709829662" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="446.9574388881995" y="0" width="3.928120627612735" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="450.88555951581225" y="0" width="3.4070283384179607" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="454.29258785423013" y="0" width="3.366187299699201" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="457.65877515392935" y="0" width="2.341224846070574" height="8" fill="#c065db"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="252.76484033620622" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="252.76484033620622" y="0" width="132.93727787403904" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="385.70211821024526" y="0" width="57.10915172304089" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="442.81126993328616" y="0" width="4.17183114530254" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="446.9831010785887" y="0" width="3.9203917637375136" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="450.90349284232616" y="0" width="3.4003247616332883" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="454.3038176039595" y="0" width="3.3595640806373956" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="457.66338168459686" y="0" width="2.336618315403118" height="8" fill="#c065db"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2489,7 +2489,7 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">EnokiUN/evangeline</span>
+                            <span class="blue space">EnokiUN/EnokiUN</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -2497,7 +2497,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 5 Dec 2022, 19:11:16
+                            On 6 Dec 2022, 15:46:08
                         </div>
                     </section>
                 </div>
@@ -2507,29 +2507,29 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            feat: make evangeline work... I think
+                            chore: add Sun Tzu quote
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">602dd671</span>
-                            <span class="code">.gitignore</span>
-                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--0</span></span>
+                            <span class="code">321be05f</span>
+                            <span class="code">README.md</span>
+                            <span class="code"><span class="snippet additions">++4</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -3,3 +3,4 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">dist/<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">yarn.lock<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">package-lock.json</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -69,4 +69,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">\- Dennis M. Ritchie<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&gt; *"Exiting is for losers."*<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">\- [Sun Tzu, The art of x86_64 ASM.](https://github.com/EnokiUN/asmthing/blob/049d749cf016768a833bd1d6506c30258b6328d6/hello.asm#L83-L84)<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">*side note: click my pfp at the top for a surprise*</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Dec 2022, 17:11:16  with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 6 Dec 2022, 18:14:48  with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
