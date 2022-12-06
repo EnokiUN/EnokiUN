@@ -69,4 +69,8 @@ Olivier, ***IS THIS QUIET ENOUGH?***
 
 \- Dennis M. Ritchie
 
+> *"Exiting is for losers."*
+
+\- [Sun Tzu, The art of x86_64 ASM.](https://github.com/EnokiUN/asmthing/blob/049d749cf016768a833bd1d6506c30258b6328d6/hello.asm#L83-L84)
+
 *side note: click my pfp at the top for a surprise*
