@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1393" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1419" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4062 Commits
+                            4063 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 23.2mb of code in 4319 edited files across 2286 commits</small>
+                <small>estimation from 23.2mb of code in 4321 edited files across 2287 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="420.61135247659337" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="420.61135247659337" y="0" width="18.05024207475611" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="438.6615945513495" y="0" width="15.860571362170285" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="454.52216591351976" y="0" width="4.096533281552092" height="8" fill="#199f4b"/>
-                    <rect mask="url(#languages-bar)" x="458.6186991950718" y="0" width="0.47481665694494246" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.09351585201676" y="0" width="0.4584291171629588" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.5519449691798" y="0" width="0.2807333263510203" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.8326782955308" y="0" width="0.1673217044692665" height="8" fill="#c065db"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="420.60386045214153" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="420.60386045214153" y="0" width="18.049920559765635" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="438.6537810119072" y="0" width="15.868482474031035" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="454.52226348593825" y="0" width="4.096460313175627" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="458.61872379911387" y="0" width="0.4748081994033592" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.0935319985172" y="0" width="0.45842095151993706" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.55195295003716" y="0" width="0.2807283258655767" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.83268127590276" y="0" width="0.16731872409725843" height="8" fill="#c065db"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -286,12 +286,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 83 commits)</small>
+                    <small class="h-details">(computed from last 81 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 30.1 characters per line of code written</li>
+                        <li>Has approximately 30.8 characters per line of code written</li>
                         <li>Mostly pushes code around 16:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -402,13 +402,13 @@
                             19
                         </div>
                         <div class="entry">
-                            <span class="value">10</span>
-                            <div class="bar" style="height: 35.714285714285715px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">9</span>
+                            <div class="bar" style="height: 32.142857142857146px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             20
                         </div>
                         <div class="entry">
-                            <span class="value">7</span>
-                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">6</span>
+                            <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             21
                         </div>
                         <div class="entry">
@@ -448,8 +448,8 @@
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">10</span>
-                                <div class="bar" style="height: 21.73913043478261px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">8</span>
+                                <div class="bar" style="height: 17.391304347826086px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
@@ -2499,7 +2499,7 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">eludris/eludris</span>
+                            <span class="blue space">EnokiUN/effiwbin</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -2507,7 +2507,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 4 Jan 2023, 09:26:00
+                            On 3 Jan 2023, 20:20:58
                         </div>
                     </section>
                 </div>
@@ -2517,29 +2517,29 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            feat(models): make sure all models implement Debug and Clone
+                            feat: improve navbar
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">586786c4</span>
-                            <span class="code">todel/src/models/ratelimits.rs</span>
-                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
+                            <span class="code">42dd8b18</span>
+                            <span class="code">index.html</span>
+                            <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -3,7 +3,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">use crate::conf::{EffisRateLimits, OprishRateLimits, RateLimitConf};<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">/// The type which represents all of an instance's ratelimit configuration<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">#[derive(Debug, Serialize, Deserialize)]<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">#[derive(Debug, Clone, Serialize, Deserialize)]<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">pub struct InstanceRateLimits {<br /></span><span class="token prefix unchanged">·</span><span class="token line">  pub oprish: OprishRateLimits,<br /></span><span class="token prefix unchanged">·</span><span class="token line">  pub pandemonium: RateLimitConf,</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -17,8 +17,9 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;/head&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;body&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">  &lt;nav&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    &lt;a class="nava" href="https://github.com/enokiun/effiwbin"&gt;&lt;button class="navbutton"&gt;GitHub&lt;/button&gt;&lt;/a&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    &lt;button onclick="newPaste()" class="navbutton left"&gt;New&lt;/button&gt;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    &lt;a style="display: none" id="effiw-link" class="navbutton"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    &lt;a style="display: none" id="effiw-link" class="nava"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">      &gt;&lt;button class="navbutton"&gt;Effis URL&lt;/button&gt;&lt;/a<br /></span><span class="token prefix unchanged">·</span><span class="token line">    &gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">    &lt;button onclick="save()" class="navbutton"&gt;Save&lt;/button&gt;</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2023, 20:12:54  with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 5 Jan 2023, 21:11:06  with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
