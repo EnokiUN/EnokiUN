@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1419" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1379" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4112 Commits
+                            4114 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 23.2mb of code in 4386 edited files across 2336 commits</small>
+                <small>estimation from 23.2mb of code in 4389 edited files across 2338 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="419.9476893283146" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="419.9476893283146" y="0" width="18.021761434820952" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="437.96945076313557" y="0" width="16.54741934070571" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="454.51687010384126" y="0" width="4.0900695516535635" height="8" fill="#199f4b"/>
-                    <rect mask="url(#languages-bar)" x="458.60693965549484" y="0" width="0.4880064958230997" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.09494615131797" y="0" width="0.4577057831174852" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.5526519344354" y="0" width="0.28029037025367326" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.8329423046891" y="0" width="0.16705769531090786" height="8" fill="#c065db"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="419.9458943236439" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="419.9458943236439" y="0" width="18.021684403450685" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="437.96757872709463" y="0" width="16.549314813579436" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="454.51689354067406" y="0" width="4.090052069252457" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="458.6069456099265" y="0" width="0.4880044099110644" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.0949500198376" y="0" width="0.45770382672139265" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.55265384655905" y="0" width="0.280289172193685" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.83294301875276" y="0" width="0.16705698124734475" height="8" fill="#c065db"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2492,7 +2492,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 9 Jan 2023, 06:46:54
+                            On 9 Jan 2023, 07:22:01
                         </div>
                     </section>
                 </div>
@@ -2502,13 +2502,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            fix: use correct feature name for rustln
+                            fix: use correcter feature name for rustls
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">6d8e09c6</span>
+                            <span class="code">a71613cd</span>
                             <span class="code">Cargo.toml</span>
                             <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
@@ -2517,14 +2517,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -9,7 +9,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">anyhow = "1.0.66"<br /></span><span class="token prefix unchanged">·</span><span class="token line">futures = "0.3.25"<br /></span><span class="token prefix unchanged">·</span><span class="token line">log = "0.4.17"<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">reqwest = { version = "0.11.13", default-features = false, features = ["json", "rustls"] }<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">reqwest = { version = "0.11.13", default-features = false, features = ["json", "rustls-tls"] }<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">serde = { version = "1.0.147", features = ["derive"] }<br /></span><span class="token prefix unchanged">·</span><span class="token line">serde_json = "1.0.87"<br /></span><span class="token prefix unchanged">·</span><span class="token line">todel = { git = "https://github.com/eludris/eludris", branch = "next" }</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -14,4 +14,4 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">serde_json = "1.0.87"<br /></span><span class="token prefix unchanged">·</span><span class="token line">todel = { git = "https://github.com/eludris/eludris", branch = "next" }<br /></span><span class="token prefix unchanged">·</span><span class="token line">tokio = { version = "1.21.2", features = ["rt-multi-thread", "macros", "time"] }<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">tokio-tungstenite = { version = "0.17.2", features = ["rustls"] }<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">tokio-tungstenite = { version = "0.17.2", features = ["rustls-tls-webpki-roots"] }</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jan 2023, 18:15:11  with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 9 Jan 2023, 19:10:13  with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
