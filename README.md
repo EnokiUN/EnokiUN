@@ -13,7 +13,7 @@
 
 ## :wave: Hey there, I'm Enoki.
 
-A highschool student who likes working on FOSS projects as a hobby and a minor addiction.
+A [KFUPM](https://kfupm.edu.sa) Computer Engineering student who likes working on FOSS projects as a hobby and a minor addiction.
 
 You can find more information about me over on my [website](https://ensite-ad7.pages.dev/), here are some main points however:
 
