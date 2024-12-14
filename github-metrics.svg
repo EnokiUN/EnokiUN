@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 26 repositories
+                            Contributed to 25 repositories
                         </div>
                     </section>
                 </div>
@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 24.5mb of code in 4680 edited files across 2259 commits</small>
+                <small>estimation from 24.5mb of code in 4674 edited files across 2257 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="413.24285055438855" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="413.24285055438855" y="0" width="19.39065943062697" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="432.63350998501556" y="0" width="18.325219227993436" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="450.958729213009" y="0" width="4.2083351195201075" height="8" fill="#199f4b"/>
-                    <rect mask="url(#languages-bar)" x="455.1670643325291" y="0" width="3.236243102284725" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="458.4033074348138" y="0" width="0.5433741579928061" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.9466815928066" y="0" width="0.5276261844295215" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.47430777723616" y="0" width="0.525692222763855" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="413.2411655271823" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="413.2411655271823" y="0" width="19.39135822833117" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="432.63252375551355" y="0" width="18.32587962952188" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="450.9584033850354" y="0" width="4.208486778876023" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="455.16689016391143" y="0" width="3.236359729532922" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.40324989344435" y="0" width="0.543393740029997" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.9466436334743" y="0" width="0.5276451989435804" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.4742888324179" y="0" width="0.5257111675820906" height="8" fill="#000080"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2511,7 +2511,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 13 Dec 2024, 23:01:19
+                            On 13 Dec 2024, 21:18:29
                         </div>
                     </section>
                 </div>
@@ -2521,14 +2521,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            fix: markdown fixes
+                            fix: make clicking on an image only show profile
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">4d7c5d21</span>
-                            <span class="code">src/lib/components/Markdown.svelte</span>
+                            <span class="code">93c9a8d5</span>
+                            <span class="code">package-lock.json</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -2539,14 +2539,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -101,7 +101,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">}<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">:global(.md .katex *) {<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  white-space: unset;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  white-space: pre;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">}<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">:global(.md:has(.math)) {</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -24,7 +24,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"@sveltejs/adapter-auto": "^3.2.5",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"@sveltejs/adapter-cloudflare": "^4.7.2",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"@sveltejs/kit": "^2.5.28",<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">"@sveltejs/vite-plugin-svelte": "3.0.0",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">"@sveltejs/vite-plugin-svelte": "^3.0.0",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"@types/prismjs": "^1.26.4",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"@typescript-eslint/eslint-plugin": "^8.6.0",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"@typescript-eslint/parser": "^8.6.0",</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Dec 2024, 20:14:53  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Dec 2024, 21:12:35  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
