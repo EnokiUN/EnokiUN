@@ -23,14 +23,13 @@ You can find more information about me over on my [website](https://ensite-ad7.p
 
 And while you're here, why don't you check out the fully FOSS, e2ee encrypted social media platform I'm working on over at [eludris](https://github.com/eludris/eludris/) <img width="30em" src="https://github.com/eludris/.github/blob/main/assets/thang-big.png" />
 
-### Tools I *Actively* Use
+### Tools I'm familiar with 
 
-This is a list of "tools" I use atleast once a week
+This is a list of some of the "tools" I have a fair bit of experience with (and ideally use regularly). (out of date list)
 
 [![Rust](https://shields.io/static/v1?label=Rust&style=for-the-badge&message=Language&logo=rust&color=111111&labelColor=111111)][rust]
 [![Python](https://shields.io/static/v1?label=Python&style=for-the-badge&message=Language&logo=python&color=111111&labelColor=111111)][python]
 [![Typescript](https://shields.io/static/v1?label=Typescript&style=for-the-badge&message=Language&logo=typescript&color=111111&labelColor=111111)][typescript]
-[![Crystal](https://shields.io/static/v1?label=Crystal&style=for-the-badge&message=Language&logo=crystal&color=111111&labelColor=111111)][crystal]
 [![Godot](https://shields.io/static/v1?label=Godot&style=for-the-badge&message=Game%20Engine&logo=godotengine&color=111111&labelColor=111111)][godot]
 [![Svelte Kit](https://shields.io/static/v1?label=Svelte%20Kit&style=for-the-badge&message=Framework&logo=svelte&color=111111&labelColor=111111)][svelte]
 [![Astro](https://shields.io/static/v1?label=Astro&style=for-the-badge&message=%22Framework%22&logo=astro&color=111111&labelColor=111111)][astro]
@@ -55,7 +54,6 @@ This is a list of "tools" I use atleast once a week
 [godot]: https://godotengine.org/
 [typescript]: https://typescriptlang.org/
 [rust]: https://rust-lang.org/
-[crystal]: https://crystal-lang.org/
 [svelte]: https://kit.svelte.dev/
 [astro]: https://astro.build/
 
