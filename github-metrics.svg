@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1406" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1433" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.categories{justify-content:space-around;margin-top:4px}.categories,.category,.track{display:flex;align-items:center}.category{flex-direction:column;flex:1 1 0}.track{justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .commit .message,.activity .field{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .user{font-weight:600}.activity .commit{display:flex;align-items:center}.activity .commit .message{width:360px}svg.calendar{margin-left:13px;margin-top:4px}.deleted{color:#da3633}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.regex{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.categories{justify-content:space-around;margin-top:4px}.categories,.category,.track{display:flex;align-items:center}.category{flex-direction:column;flex:1 1 0}.track{justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .user{font-weight:600}.activity .commit{display:flex;align-items:center}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.punctuation{color:#8a93a8}.token.regex{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5108 Commits
+                            5335 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -153,13 +153,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
                                     </svg>
-                                    Prefers MIT license
+                                    No license preference
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    7 Releases
+                                    0 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,19 +185,19 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    164 Stargazers
+                                    0 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
-                                    23 Forkers
+                                    0 Forkers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                                     </svg>
-                                    67 Watchers
+                                    0 Watchers
                                 </div>
                             </section>
                         </div>
@@ -209,38 +209,48 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    23 Languages
+                    10 Languages
                 </h2>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 26.3mb of code in 5043 edited files across 2355 commits</small>
+                <small>estimation from 3.94mb of code in 2096 edited files across 909 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="404.0502492155901" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="404.0502492155901" y="0" width="25.307773068683787" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="429.3580222842739" y="0" width="18.955292709579602" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="448.3133149938535" y="0" width="5.990756949135472" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="454.304071942989" y="0" width="4.114873932837686" height="8" fill="#199f4b"/>
-                    <rect mask="url(#languages-bar)" x="458.4189458758267" y="0" width="0.535730199696939" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="458.95467607552365" y="0" width="0.531306584433132" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.48598265995673" y="0" width="0.5140173400432907" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="325.18022955553914" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="325.18022955553914" y="0" width="117.68170511915176" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="442.86193467469093" y="0" width="7.139698985023029" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="450.00163365971395" y="0" width="5.281595505854825" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="455.28322916556874" y="0" width="2.8113966209593273" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.09462578652807" y="0" width="1.9053742134718958" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        JavaScript
+                        Rust
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Rust
+                        TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Dockerfile
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Shell
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -250,33 +260,9 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        TypeScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#199f4b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Vim Script
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Dockerfile
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Shell
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Lua
+                        JavaScript
                     </div>
                 </div>
             </section>
@@ -516,7 +502,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.56
+                            Average per day at ~0.64
                         </div>
                     </section>
                 </div>
@@ -1033,15 +1019,15 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-5.1, 8.181818181818182)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.8181818181818183 0,1.8181818181818181 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8181818181818181 1.7,2.8181818181818183 z"/>
                             </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-6.8, 9.454545454545453)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1166,10 +1152,10 @@
                             </g>
                         </g>
                         <g transform="translate(28.9, 17)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(0, 3.8181818181818183)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.181818181818182 0,3.1818181818181817 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1818181818181817 1.7,4.181818181818182 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1546,10 +1532,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-3.4, 7.7272727272727275)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2727272727272725 0,1.2727272727272727 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2727272727272727 1.7,2.2727272727272725 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1588,25 +1574,25 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-5.1, 8.181818181818182)">
+                            <g transform="translate(-5.1, 7.909090909090908)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.8181818181818183 0,1.8181818181818181 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8181818181818181 1.7,2.8181818181818183 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
                             </g>
-                            <g transform="translate(-6.8, 8.636363636363637)">
+                            <g transform="translate(-6.8, 7)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.3636363636363633 0,2.3636363636363633 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3636363636363633 1.7,3.3636363636363633 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5 0,4 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4 1.7,5 z"/>
                             </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-8.5, 9.363636363636363)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.6363636363636362 0,2.6363636363636362 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.6363636363636362 1.7,3.6363636363636362 z"/>
                             </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-10.2, 11.454545454545453)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
                             </g>
                         </g>
                         <g transform="translate(49.3, 29)">
@@ -2512,7 +2498,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 28 May 2025, 21:56:05
+                            On 28 May 2025, 22:01:55
                         </div>
                     </section>
                 </div>
@@ -2522,7 +2508,849 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            feat: flesh out spheres (and other stuff) (#117)
+                            chorerefactorremovalfeaturecidocsfeetoliverwilkes: update main after 2 years (#118)
+
+* refactor: clean up config a bit
+
+* docs: improve sidebar
+
+* chore: correct `Eludris.toml` examples
+
+* fix(todel): rerename retry_after to retry_after
+
+* feat: move migration handling from Effis over to Oprish (#75)
+
+* feat: move migrations out of effis
+
+* feat: make oprish handle database migrations
+
+* deps: update microservice sqlx dependencies
+
+* ci(build): use main tags for latest in docker (#76)
+
+* chore(docker): make pandemonium and effis depend on oprish (#77)
+
+* docs: remove now-invalid and redundant part of docs
+
+* chore(docker): make pandemonium and effis rely on oprish
+
+* docs: undo docs change
+
+* build(compose): use restart unless-stopped (#78)
+
+* feat(cli): improve how the CLI's config directory is handled (#79)
+
+* deps: add `dotenvy` and `directories` to todel
+
+* chore(cli): update `README.md` to include more immediately useful information
+
+* feat(cli): improve how the config directory is handled
+
+This mainly includes making it cross-platform and allowing the usage
+of the `ELUDRIS_CLI_CONF` environment variable.
+
+* feat(cli): add the `eludris conf-dir` command
+
+* docs: update the CLI docs to reflect the recent config directory-related changes
+
+* chore(cli): fix a lot of typos
+
+* chore(cli): improve error wording
+
+* refactor(cli): change `get_conf_directory` to `get_config_directory` to improve consistence
+
+* docs: improve docs wording
+
+* feat(cli): allow users to configure their `.env` file while setting up their instance (#80)
+
+* fix(cli): use the correct file name for `.env.examaple` when fetching from github
+
+* chore(cli): remove now-incorrect comment
+
+* feat(cli): ask the user if they want to configure their `.env`
+
+* chore: clean up the example `.env` file
+
+* docs: update old OprishRateLimits exmaple (#82)
+
+* docs: include the current eludris version in the doc's `/autodoc/index.json` (#84)
+
+* docs: remove now-invalid and redundant part of docs
+
+* chore(docker): make pandemonium and effis rely on oprish
+
+* docs: undo docs change
+
+* docs: include eludris version in index.json
+
+* feat: add users model and migration (#83)
+
+* feat(migrations): add users migration
+
+* refactor(migrations): consistency
+
+* feat(todel): add User model
+
+* fix(codegen): skip fields checking on serde(skip)
+
+* docs(todel): ok apparently upper bounds are
+
+Co-authored-by: Enoki &lt;enokiun@gmail.com&gt;
+
+---------
+
+Co-authored-by: Enoki &lt;enokiun@gmail.com&gt;
+
+* feat(codegen): make the `autodoc` macro ignore struct fields with `serde(skip_serializing)` (#85)
+
+* docs: improve the consistency of the documentation of some fields (#86)
+
+* docs(todel): make the documentation of `FileData`'s field more consistent with other models
+
+* docs(todel): make the documentation of `FileMetadata`'s field more consistent with other models
+
+* docs(todel): make the documentation of `InstanceInfo`'s field more consistent with other models
+
+* docs(todel): make the documentation of `Message`'s field more consistent with other models
+
+* docs(todel): improve `FileData::spoiler` docs wording
+
+* docs(todel): fix inconsistent grammar in `Message::content` docs
+
+* refactor(todel): only include "private" user fields when the `logic` featre is enabled (#87)
+
+* refactor(todel): remove the only interally used fields on the `User` struct (#88)
+
+* refactor(todel): tidy up the pre-existing `IdGenerator` code (#89)
+
+* refactor(todel): rename `IDGenerator` to `IdGenerator` for neatness purposes
+
+* refactor(todel): rename `IdGenerator::generate_id` to `IdGenerator::generate` for neatness purposes
+
+* feat(todel): add `Unauthorized` and `Foridden` to `ErrorResponse` (#90)
+
+* feat(todel): add `Unauthorized` and `Forbidden` to `ErrorResponse`
+
+* docs(todel): remove extra dash in the `ErrorResponse::RateLimited` variant docs
+
+* feat: migrate from MariaDB to PostgreSql (#91)
+
+* deps: use PostgreSql versions of previous dependencies
+
+* chore: update MySql urls to PostgreSql ones
+
+* docs: update docs to mention PostgreSql instead of MySql
+
+* feat: use PostgreSql pool types for `rocket_db_pools`
+
+* feat(todel): migrate file logic to PostgreSql
+
+* feat(migrations): migrate migrations to PostgreSql
+
+"pun" intended
+
+* feat(cli): make the CLI work with PostgreSql
+
+* chore: regenerate todel &amp; cli `sqlx-data.json`
+
+* feat(docker): migrate docker compose files to PostgreSql
+
+* chore: add docker `pgsql` volume to `.gitignore`
+
+* feat(docker): migrate Dockerfiles to work with PostgreSql
+
+* ci: update MySql urls to PostgreSql ones
+
+* docs: fix typoing PostgreSQL as PostgreSql
+
+Co-authored-by: ooliver1 &lt;oliverwilkes2006@icloud.com&gt;
+
+---------
+
+Co-authored-by: ooliver1 &lt;oliverwilkes2006@icloud.com&gt;
+
+* feat: implement authentication (#92)
+
+* feat(migrations): add a `meta` migration for instance-meta information
+
+* feat(migrations): add a `sessions` migration for storing session information
+
+* feat(todel): add a `Session` struct to store session information
+
+* feat(todel): add `UserCreate` struct to allow for user creation
+
+* deps(todel): add `lazy_static` and `regex` to todel
+
+* feat(todel): implement `UserCreate::validate` for new user data validation
+
+* deps(todel): add `argon2` to todel
+
+* deps(todel): properly use features to only include necessary deps
+
+* fix(migrations): use the correct data type for user passwords
+
+* feat(todel): implement `User::create` to allow the signing-up of users
+
+* chore(migrations): fix typo in migration comment
+
+* chore(todel): fix punctuation in the `UserCreate` model's docs
+
+* docs(todel): make the docs of the `Session` struct conform to the now field doc style
+
+* chore(todel): update `sqlx-data.json` to reflect new query changes
+
+* docs(todel): change the `Session` struct's autodoc category to `Sessions`
+
+* feat(todel): add the `SessionCreate` struct to allow for user authentication
+
+* fix(todel): include the creation IP address in the `Session` struct
+
+The IP address is useful data to the end-user which is why it should be included.
+
+* refactor(todel): isolate session types into their own file
+
+* feat(todel): add `SessionCreated` to provide the user with their session token
+
+* feat(todel): implement `SessionCreate::ensure_valid` to lowercase the session platform and client
+
+* feat(todel): add the `SessionTokenClaims` struct for JWT payloads
+
+* deps(oprish): add `rand` to oprish
+
+* feat(oprish): manage an `StdRng` for cryptographic generation reasons
+
+* deps(todel): add `rand` to todel
+
+* deps(todel): properly use features to only include necessary deps
+
+* docs(todel): add correct code block type for `SessionCreate` docs example
+
+* deps: add `jwt`, `sha2` and `hmac` to todel
+
+* feat(todel): add `Secret` tuple struct to handle meta table logic
+
+* feat(oprish): handle creating instance meta info and loading secret
+
+* deps(todel): add the `ipnetwork` feature to `sqlx`
+
+* feat(todel): implement `Session::create` to allow for token creation
+
+* feat(todel): implement `Session::validate_token` to allow for user authentication
+
+* deps(todel): add `rocket_db_pools`
+
+* refactor: centralise database pool structs
+
+* feat(todel): add a `TokenAuth` rocket request guard
+
+* no dupe users
+
+* feat(todel): add `ErrorResponse::Conflict`
+
+* feat(todel): properly handle duplicate users being created
+
+* chore(todel): add `sqlx-data.json`
+
+I made this commit on mobile D:
+
+* docs: remove now-invalid and redundant part of docs
+
+* refactor(todel): clean up the `Conf` source code to be more maintainable (#93)
+
+* feat: implement SMTP and email support (#94)
+
+* refactor(todel): clean up the `Conf` source code to be more maintainable
+
+* feat(todel): implement email conf
+
+* deps(oprish): add `lettre` to oprish
+
+* feat(oprish): add a fairing to add a managed asynchronous SMTP transport to rocket
+
+* feat(migrations): update migrations
+
+* feat(oprish): manage some stuff
+
+do not look at scope creep please
+
+* feat(oprish): update instance email conf
+
+* deps: update dependencies
+
+* chore: update example Eludris.toml
+
+* deps: update dependencies
+
+* chore(todel): fix incorrect email fairing info
+
+* feat(todel): implement deref for clientip
+
+* feat(todel): release pool when a connection is acquired in tokenauth guard
+
+* feat(oprish): implement scheduled cleanup fairing
+
+* feat(todel): implement user email verification and cleanup logic
+
+* feat(docker): add the static folder as a volume
+
+* deps: update dependencies
+
+* feat(todel): implement email subjects
+
+* feat: add abstraction to handle emails
+
+* chore: add very poorly made placeholder verification email
+
+* chore(static): slightly improve verification email placeholder
+
+* chore(todel): change default verify subject
+
+* chore(todel): remove unused imports
+
+* feat(todel): improve how the code looks
+
+* chore: cheat on clippy
+
+* chore: update sqlx-data.json
+
+* docs: update config examples
+
+* fix(ci): make ci work properly
+
+* chore(static): slightly improve verification email placeholder again
+
+* chore(todel): remove unnecessary comment
+
+* fix(migrations): properly handle on delete cases
+
+* chore(oprish): fix typo
+
+Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
+
+* chore(oprish): fix typo
+
+Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
+
+* docs: add more descriptions for eludris toml variables
+
+---------
+
+Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
+
+* ci: allow build actions to read repos
+
+* feat: implement users (#109)
+
+* refactor(todel): clean up the `Conf` source code to be more maintainable
+
+* feat(todel): implement email conf
+
+* deps(oprish): add `lettre` to oprish
+
+* feat(oprish): add a fairing to add a managed asynchronous SMTP transport to rocket
+
+* feat(migrations): update migrations
+
+* feat(oprish): manage some stuff
+
+do not look at scope creep please
+
+* feat(oprish): update instance email conf
+
+* deps: update dependencies
+
+* chore: update example Eludris.toml
+
+* deps: update dependencies
+
+* chore(todel): fix incorrect email fairing info
+
+* feat(todel): implement deref for clientip
+
+* feat(todel): release pool when a connection is acquired in tokenauth guard
+
+* feat(oprish): implement scheduled cleanup fairing
+
+* feat(todel): implement user email verification and cleanup logic
+
+* feat(docker): add the static folder as a volume
+
+* deps: update dependencies
+
+* feat(todel): implement email subjects
+
+* feat: add abstraction to handle emails
+
+* chore: add very poorly made placeholder verification email
+
+* chore(static): slightly improve verification email placeholder
+
+* chore(todel): change default verify subject
+
+* chore(todel): remove unused imports
+
+* feat(todel): improve how the code looks
+
+* chore: cheat on clippy
+
+* chore: update sqlx-data.json
+
+* docs: update config examples
+
+* fix(ci): make ci work properly
+
+* chore(static): slightly improve verification email placeholder again
+
+* chore(todel): remove unnecessary comment
+
+* fix(migrations): properly handle on delete cases
+
+* feat(oprish): add base user routes
+
+* docs: properly remove nested options
+
+* deps: update dependencies
+
+* feat(oprish): add more rate limit configs
+
+* fix(codegen): make nested optional ommitables nullables
+
+* feat(effis): add avatars and banners buckets
+
+* feat(pandemonium): add authentication to pandemonium
+
+* feat(todel): add more gateway payloads
+
+* feat(todel): add the UpdateUserProfile payload
+
+* feat(migrations): use integers for flags
+
+* feat(todel): add Secret::try_get
+
+* feat(todel): add more user logic
+
+* chore(integration-tests): make clippy not cry about the broken tests
+
+* chore: appease Clippy
+
+* feat: make message creation require auth
+
+* fix(todel): make oprish rate limits work
+
+* chore: update sqlx-data.json
+
+* fix(todel): fix amogus buckets
+
+* feat(todel): add an instance `bio_limit`
+
+* feat(todel): validate `UpdateUserProfile`
+
+* feat(todel): implement Display for User
+
+* refactor(todel): slightly clean up `User` `Display` impl
+
+* docs: document users and sessions
+
+TODO: 204 response
+
+* chore(todel): sanify the verify user rate limit default
+
+* feat(todel): add email address to `InstanceInfo`
+
+* feat(todel): implement `User::validate_password`
+
+* refactor(oprish): move routes/users/verify_user.rs
+
+* chore(todel): update oprish conf
+
+* feat(oprish): implement user updating
+
+* feat(todel): implement user updating
+
+* chore(todel): appease Clippy
+
+* chore: update sqlx-data.json
+
+* feat(todel): add `delete_user` rate limit bucket
+
+* fear(migrations): improve migrations and add users.is_deleted
+
+* feat: add user deletion support
+
+* feat(oprish): properly schedule removing deleted users
+
+* feat: add session fetching and deletion
+
+* chore: update sqlx-data.json
+
+* feat(migrations): add status type to user migration
+
+* feat: add presense and status improvements
+
+* docs(oprish): document delete_session
+
+* docs(oprish): fix create_session example spacing
+
+* docs(oprish): document delete_user
+
+* docs(oprish): document update_user
+
+* fix(pandemonium): fix "bugs"
+
+* chore(todel): make eludris not shit
+
+increase consistency by making the `FileMetadata` types all in UPPERCASE like `StatusType`s
+
+* fix(docs): convert vec to "array of x"
+
+* feat(codegen): make codegen more malleable
+
+* feat: add message disguise
+
+* chore(todel): add expirety to `verification:{user_id}` cache keys
+
+* feat(oprish): add current user data to `ServerPayload::Authenticated`
+
+* fix(todel): properly flatten message data
+
+* feat(todel): add `ErrorResponse::Misdirected`
+
+* chore(pandemonium): fix typo
+
+* fix(pandemonium): actually await the features
+
+* fix(users): return verified column not verification
+
+* Merge branch 'next' into enoki/users
+
+* docs: yoo data loss
+
+* refactor: why did that change
+
+* feat(todel): add user password reset logic
+
+* refactor(oprish): use a macro for ratelimiter buckets
+
+* feat(oprish): implement user password reset routes
+
+* chore: update sqlx-data.json
+
+* chore: format code
+
+* chore: update version to 0.4.0-alpha1
+
+* fix: make buils build
+
+* refactor(integration-tests): make integration tests not tests
+
+* chore(static): slightly improve verification email placeholder
+
+* feat(static): add account deletion email placeholder
+
+* feat(static): add account password reset email placeholder
+
+* feat(static): add user update email placeholder
+
+* chore: update Eludris.toml &amp; examples
+
+* docs: mention static files in config docs
+
+* feat: use new email templates
+
+* chore: update sqlx-data.json
+
+* fix(todel): assign `UserUpdate` validation banner to banner instead of avatar
+
+* docs(oprish): fix description for get sessions
+
+* docs(oprish): fix session create example
+
+* docs(users): document password reset
+
+* chore: include PATCH and DELETE methods in cors headers
+
+* chore: make clippy happy
+
+* feat: tell the user that they're polymorphing in real time
+
+* feat: not give everyone your email
+
+* fix: make effis not hate webm
+
+* fix: make pandemonium handle sessions in a better manner
+
+* chore: appease Clippy
+
+* chore: remove LICENSE
+
+* chore: update workspace resolver to match workspace members
+
+* fix: properly hide user status when they're offline or offline
+
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+kei nario nazasu
+
+* chore: cleanup file logic a bit
+
+* fix: look for banners in the banners bucket when validating
+
+* fix: only let people know that you're offline when you not on the line
+
+* chore: update sqlx-data.json
+
+* fix: reset all user active session counts to 0 when pandemonium starts up
+
+* fix(docs): make route docs more consistent
+
+* feat: include `bio_limit` in `InstanceInfo` payloads
+
+* feat: dogs grrr woof woof bark bark arf woof snarl hssss grrrr
+
+* fix: I love it when I set my password to enokiun@gmail.com and my email to $argon2id$v=19$m=19456,t=2,p=1$1eox0Em8O6uRUfa9RbrbxA$e516g5E/pt/57Id2TQkg/sagBK15tI9lw/jXOFXKDYs
+
+* chore: update sqlx-data.json
+
+* refactor(codegen): rework autodoc a bit (#96)
+
+* refactor(codegen): rename struct type to object
+
+* refactor: convert guards to requires_auth
+
+* refactor: rename Struct variant to Object
+
+* refactor(codegen): turn route body into an object
+
+* refactor(codegen): turn route response into an object
+
+* feat(codegen): add response.rate_limit
+
+* refactor(codegen): use .format instead of generics
+
+* refactor(codegen): remove Box&lt;&gt;
+
+* fix(codegen): properly detect nullable
+
+* feat(codegen): add status_code field
+
+* refactor(codegen): remove `rename_all`
+
+* docs: document autodoc with a guide
+
+* refactor: hide route specific creation types
+
+* docs(autodoc): apply changes from code review
+
+Co-authored-by: Chromosomologist &lt;chromosomologist@gmail.com&gt;
+
+* refactor(codegen): rename to omittable
+
+* chore(codegen): remove debug print
+
+* refactor(autodoc): use FieldInfo.type instead of FieldInfo.field_type
+
+* refactor(autodoc): use type over param_type for params
+
+* refactor: hide all new create/update/delete* structs from sidebar
+
+* fix: remove unused import
+
+* fix autodoc builds and 204 http status
+
+* ok i will format thank you
+
+* fix: handle Vec&lt;T&gt; -&gt; T[]
+
+* fix(docs): handle T[] as array
+
+* refactor(codegen): use str over String, file over TempFile
+
+* chore: format code
+
+---------
+
+Co-authored-by: Chromosomologist &lt;chromosomologist@gmail.com&gt;
+Co-authored-by: Enoki &lt;enokiun@gmail.com&gt;
+
+* feat: add resend verification route (#106)
+
+* feat: add resend verification route
+
+* refactor(users): modify server error msg for resend_verification
+
+* fix: hopefully fix cors for headers
+
+* deps: update dependencies
+
+* feat: clean up user logic (a bit)
+
+* feat: slightly improve emails
+
+* feat: improve user data fetching logic
+
+* feat: hopefully appease sqlx
+
+* feat: hopefully appease sqlx v2
+
+* docs: slightly improve docs
+
+* docs: don't link to a private repo xd
+
+* ci: remove the now pointless build workflows
+
+* feat: remove oprish unit tests
+
+* feat: cli
+
+* feat: remove integration testing
+
+* feat: hopefully fix tests
+
+* fix(docs): state that unit responses are infact empty
+
+* chore(effis): make rate limit buckets more reasonable
+
+* chore(effis): appease clippy since modules have to include tangible exportable objects to be exported now
+
+* chore: move some log lines from `debug` to `trace`
+
+* chore: literally change around some spacing
+
+* feat(effis): implement a simple file proxy
+
+* chore: address and ignore the clippy `blocks_in_conditions` lint
+
+* refactor(pandemonium): slightly clean up connection handling code
+
+* ci: add a concurrency key for deploying dev portal
+
+---------
+
+Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
+Co-authored-by: Marcovdt &lt;53080770+Marcovdt68@users.noreply.github.com&gt;
+Co-authored-by: Chromosomologist &lt;chromosomologist@gmail.com&gt;
+
+* deps: use reqwest's rustls tls
+
+* ci: hopefully fix dev portal deployment workflow
+
+* ci: hopefully fix dev portal deployment workflow (again)
+
+* deps: update `Cargo.lock`
+
+* fix: add a proper user agent to effis proxy
+
+* fix: hopefully properly display optional query param types
+
+* chore: update readme (#115)
+
+* docs(components): make sidebar redirect to eludris repo (#97)
+
+* Update README.md
+
+---------
+
+Co-authored-by: spifory &lt;luvuyosilubane50@gmail.com&gt;
+
+* feat: flesh out spheres (and other stuff) (#117)
 
 * feat: not finish damatase migration because this is scuffed (will do later)
 
@@ -2848,16 +3676,25 @@ Co-authored-by: spifory &lt;luvuyosilubane50@gmail.com&gt;
 Co-authored-by: Milan Smeets &lt;chromosomologist@gmail.com&gt;
 Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
 Co-authored-by: spifory &lt;luvuyosilubane50@gmail.com&gt;
+
+---------
+
+Co-authored-by: Ceilia &lt;134708916+ceiliaa@users.noreply.github.com&gt;
+Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
+Co-authored-by: teaishealthy &lt;76410798+teaishealthy@users.noreply.github.com&gt;
+Co-authored-by: Marcovdt &lt;53080770+Marcovdt68@users.noreply.github.com&gt;
+Co-authored-by: Chromosomologist &lt;chromosomologist@gmail.com&gt;
+Co-authored-by: spifory &lt;luvuyosilubane50@gmail.com&gt;
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">ce457ab5</span>
-                            <span class="code">pandemonium/Cargo.toml</span>
+                            <span class="code">977c230f</span>
+                            <span class="code">integration-tests/README.md</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
-                                <span class="snippet deletions">--1</span>
+                                <span class="snippet additions">++0</span>
+                                <span class="snippet deletions">--10</span>
                             </span>
                         </div>
                     </section>
@@ -2865,14 +3702,14 @@ Co-authored-by: spifory &lt;luvuyosilubane50@gmail.com&gt;
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -17,5 +17,5 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">serde_json = "1.0.85"<br /></span><span class="token prefix unchanged">·</span><span class="token line">sqlx = { version = "0.7.3", features = ["runtime-tokio-rustls", "postgres"] }<br /></span><span class="token prefix unchanged">·</span><span class="token line">todel = { features = ["logic"], version = "0.4.0-alpha1", path = "../todel" }<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">tokio = { version = "1.21.0", features = ["macros", "rt-multi-thread", "net", "sync", "time"] }<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">tokio = { version = "1.41.1", features = ["macros", "rt-multi-thread", "net", "sync", "time"] }<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">tokio-tungstenite = { version = "0.19.0", features = ["rustls"] }</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,10 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"># Eludris Integration Test Suite<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line">A simple yet extensive suite of integration tests for Eludris to make sure that<br /></span><span class="token prefix deleted">-</span><span class="token line">stuff that works keeps working.<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line">## Running<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line">Both unit *and* integration tests can be run with cargo using the `cargo test`<br /></span><span class="token prefix deleted">-</span><span class="token line">command in the repository root.</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 May 2025, 11:13:07  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 May 2025, 12:31:06  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
