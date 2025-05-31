@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1353" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1406" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.categories{justify-content:space-around;margin-top:4px}.categories,.category,.track{display:flex;align-items:center}.category{flex-direction:column;flex:1 1 0}.track{justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .commit .message,.activity .field{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .user{font-weight:600}.activity .commit{display:flex;align-items:center}.activity .commit .message{width:360px}svg.calendar{margin-left:13px;margin-top:4px}.deleted{color:#da3633}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.regex{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .user{font-weight:600}svg.calendar{margin-left:13px;margin-top:4px}.deleted{color:#da3633}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -2517,7 +2517,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 28 May 2025, 21:56:05
+                            On 30 May 2025, 20:44:11
                         </div>
                     </section>
                 </div>
@@ -2527,341 +2527,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            feat: flesh out spheres (and other stuff) (#117)
-
-* feat: not finish damatase migration because this is scuffed (will do later)
-
-* fix: make migrations actually run
-
-* deps: update `Cargo.lock`
-
-* feat(database): improve sphere migration
-
-* fix(database): comments  because we need them I meant commas
-
-* fix(database): add `is_deleted` fields and cascade deletes on some fields
-
-* feat(effis): add support for `sphere-icons` and `sphere-banners` buckets
-
-* feat(todel): implement base sphere struct type
-
-* fix(docs): provide accurate bucket name for user avatar and banner docs
-
-* fix(effis): properly type the `BUCKETS` array
-
-* feat(docs): add documentation (this sucks) to the `SphereType` enum
-
-* docs: document `SphereType`
-
-* docs: remove redundant information in `StatusType` docs
-
-* docs: improve how uppercase unit enum variants are displayed
-
-* docs: actually improve how uppercase unit enum variants are displayed
-
-* chore(todel): remove the `default_permissions` field from the `Sphere` model for now
-
-* fix(migrations): excersise my right to modify migrations on unstable branches
-
-* docs: improve how uppercase enum variants are displayed
-
-* docs: improve how some items are documented
-
-* feat(todel): model channels
-
-* fix(migrations): excersise my right to modify migrations on unstable branches again
-
-* feat: add models for it's a bloody spehre (#110)
-
-* feat: i am the rustener what the fuck is a rust
-
-* feat: cargo brr
-
-* feat: add message edit model
-
-* feat: add sphere create/edit payloads
-
-* feat: car go where?
-
-* feat: car go attach to message
-
-* fix: car go ///
-
-* fix: car go member for real this time
-
-* fix: car go public
-
-* fix: car go compile
-
-* fix: car go rename type
-
-* feat: car go create and edit channel
-
-* ignore: git
-scope creep :D
-
-* chore: car go sphere
-
-* chore: car go lowercase
-
-* docs: fix weird docstring
-
-* feat(todel): start implementing sphere methods
-
-* fix(migrations): excersise my right to modify migrations on unstable branches again again
-
-* fix(migrations): excersise my right to modify migrations on unstable branches again again again
-
-* feat(todel): start implementing sphere methods
-
-* chore(todel): appease Clippy
-
-* feat: implement sphere creation
-
-* feat: implement sphere fetching
-
-* fix(todel): don't fetch data for removed spheres
-
-* fix(migrations): excersise my right to modify migrations on unstable branches again again again
-
-* feat: limit the amount of spheres a user can own
-
-* chore(sqlx): update sqlx offline data
-
-* fix(migrations): excersise my right to modify migrations on unstable branches again again again
-
-* fix: remove oopsie
-
-* chore(sqlx): update sqlx offline data
-
-* fix(todel): improve field name consistency
-
-* feat: implement channel creation
-
-* docs(oprish): fix some route docs
-
-* feat: populate members within spheres
-
-* feat: add the ability to join spheres
-
-* docs(oprish): properly document the `join_sphere` routes
-
-* feat: implement sphere related payloads
-
-* fix(migrations): excersise my right to modify migrations on unstable branches again again again again again
-
-* feat: persistent messages (except the route to fetch them)
-
-* feat: implement fetching message history
-
-* chore(todel): appease Clippy
-
-* fix(docs): put correct session example
-
-* chore(todel): move disguise field to the bottom of declaration
-
-* fix(todel): I am so incapable
-
-* feat(todel): validate sphere slugs
-
-* fix(todel): properly order messages
-
-* fix(todel): actually accept more than one character in username regex
-
-* fix(todel): report webps as webps
-
-* feat: implement message pagination (#111)
-
-* feat: partially implement pagination (WIP)
-
-* feat: finish message pagination
-
-* feat: -ure creep
-
-* chore: car went fmt
-
-* feat: improve limit handling
-
-* docs(oprish): mention pagination in `get_message` route docs
-
-* chore:
-
-* feat: use get instead of try_get
-
-* feat: check if a user has access to data before giving it to them
-
-* fix(todel): actually fetch oldest messages first
-
-* feat(pandemonium): track new spheres that a user joins while connected
-
-* build: lock rust to 1.83 (#113)
-
-* ci(ci): use new docker compose command form
-
-* build: lock rust ver to 1.79
-
-* build: rust 1.83
-
-* time is fixed guys its all ok
-
-* ci(ci): lock sqlx-cli
-
-* chore: fix clippy's anger
-
----------
-
-Co-authored-by: Enoki &lt;enokiun@gmail.com&gt;
-
-* docs: properly uncode words
-
-* docs: properly uncode words
-
-* docs: properly uncode words 2
-
-* ci(ci): wait for database to be up before tests (#114)
-
-Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
-
-* Refactor!: isolate categories from channels (#112)
-
-* refactor!: break categories out such that they are no longer channels
-
-* feat: make existing logic work with new categories
-
-* feat: idk sql migraine
-
-* feat: implement default category creation on sphere creation
-
-* chore: car go fmt
-
-* fix: actually commit default category to database
-
-* feat: implement create category route
-
-* feat: make channel creation support categories
-
-* fix: return correct channel object when category id is omitted
-
-* feat: implement category editing
-
-* fix: return validated fields after editing
-
-* feat: implement category delete route
-
-* fix: off-by-one error in position editing
-
-* feat: use transaction in channel editing
-
-* feat: return categories and channels in correct order in get_sphere
-
-* feat: implement channel editing
-
-* refactor: move validation to actual validation step
-
-* fix: clamp position for inter-category channel movement
-
-* feat: implement gateway support
-
-* ??????
-
-* it's jasoon?!
-
-* fix: oops :3
-
-* feat: make category id required in models
-
-* feat: add permission checks to sphere mutation routes
-
-* chore: docs touchups
-
-* refactor: make implementation less goofy... i hope
-
-* refactor: im a transaction kinda girl
-
-* feat: we do a little documentation
-
-* car go es-kyu-el-ex prepare dash-dash dash-dash-all-dash-targets dash-dash-all-dash-features
-
-* refactor: move validation logic around
-
-* haha lol comma
-
-* chore: update docstring
-
-* feat: implement channel deletion
-
-* feat: make delete work properly for categories
-
-* refactor: inline plpgsql functions as pure sql
-
-* CAR GO ES KYU EL EX AGAIN
-
-* feat: improve channel population error handling
-
-* car go ef em tee
-
-* fix(migrations): make migrations run
-
-* backslash: n
-
-* chore(todel): formatting
-
-* CAR GO EF EM TEE
-
----------
-
-Co-authored-by: Enoki &lt;enokiun@gmail.com&gt;
-
-* chore: update readme (#115) (#116)
-
-* docs(components): make sidebar redirect to eludris repo (#97)
-
-* Update README.md
-
----------
-
-Co-authored-by: spifory &lt;luvuyosilubane50@gmail.com&gt;
-
-* chore: update Eludris.toml
-
-* fix: make it so that you can have an empty channel topic after touching it
-
-* feat: add per-sphere avatar, banners, bios and statuses to members
-
-* chore: make wording more consistent for some types and documentation
-
-* feat: add identifiers for code reduction
-
-* feat: add sphere and member editing
-
-* chore: cargo sqlx migrate
-
-* chore: appease clippy
-
-* feat: flesh out how messages work a bit
-
-* feat: sphere leave, message edit and delete
-
-* chore: make sqlx work xd
-
-* chore: version
-
-* fix: thank you copetoilet
-
----------
-
-Co-authored-by: Milan Smeets &lt;chromosomologist@gmail.com&gt;
-Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
-Co-authored-by: spifory &lt;luvuyosilubane50@gmail.com&gt;
+                            feat(oprish): add get_spheres route
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">ce457ab5</span>
-                            <span class="code">Cargo.toml</span>
+                            <span class="code">ce064e40</span>
+                            <span class="code">pandemonium/src/handle_connection/handle_client.rs</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
+                                <span class="snippet additions">++2</span>
                                 <span class="snippet deletions">--1</span>
                             </span>
                         </div>
@@ -2870,14 +2545,14 @@ Co-authored-by: spifory &lt;luvuyosilubane50@gmail.com&gt;
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -9,5 +9,5 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">resolver = "2"<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">[workspace.package]<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">version = "0.4.0-alpha1"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">version = "0.4.0-alpha2"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">documentation = "https://eludevs.pages.dev"</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -145,7 +145,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">        return Err("Failed to connect user".to_string());<br /></span><span class="token prefix unchanged">·</span><span class="token line">    };<br /></span><span class="token prefix unchanged">·</span><span class="token line">}<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">let spheres = User::get_spheres(user_session.user_id, &amp;mut db, &amp;mut *cache)<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">let spheres = user<br /></span><span class="token prefix inserted">+</span><span class="token line">    .get_spheres(&amp;mut db, &amp;mut *cache)<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    .await<br /></span><span class="token prefix unchanged">·</span><span class="token line">    .map_err(|_| "Failed to connect user".to_string())?;<br /></span><span class="token prefix unchanged">·</span><span class="token line">let payload = ServerPayload::Authenticated { user, spheres };</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 May 2025, 06:20:33  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 May 2025, 07:14:05  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
