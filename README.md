@@ -73,4 +73,8 @@ Olivier, ***IS THIS QUIET ENOUGH?***
 
 \- [Sun Tzu, The art of x86_64 ASM.](https://github.com/EnokiUN/asmthing/blob/049d749cf016768a833bd1d6506c30258b6328d6/hello.asm#L83-L84)
 
+> "'Perfection' implies a strict upper bound. 'Flaw', on the other hand, means we still have the chance for a breakthrough.
+
+\- The Doctor
+
 *side note: click my pfp at the top for a surprise*
