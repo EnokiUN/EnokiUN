@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://youtu.be/dQw4w9WgXcQ"><img width=200px src="assets/enoki.png" /></a>
+  <a href="https://youtu.be/dQw4w9WgXcQ"><img width=200px src="assets/better-saber-avatar2.png" /></a>
   <br>
   <a href="https://matrix.to/#/@enokiun:matrix.org"><img src="https://img.shields.io/static/v1?&label=%20&style=for-the-badge&message=Matrix&logo=matrix&color=000000&labelColor=000000" /></a>
   <a href="https://reddit.com/u/enokiun"><img src="https://img.shields.io/static/v1?&label=%20&style=for-the-badge&message=Reddit&logo=reddit&logoColor=ff5700&color=121212&labelColor=121212" /></a>
@@ -73,8 +73,10 @@ Olivier, ***IS THIS QUIET ENOUGH?***
 
 \- [Sun Tzu, The art of x86_64 ASM.](https://github.com/EnokiUN/asmthing/blob/049d749cf016768a833bd1d6506c30258b6328d6/hello.asm#L83-L84)
 
-> "'Perfection' implies a strict upper bound. 'Flaw', on the other hand, means we still have the chance for a breakthrough.
+> "'Perfection' implies a strict upper bound. 'Flaw', on the other hand, means we still have the chance for a breakthrough."
 
 \- The Doctor
 
 *side note: click my pfp at the top for a surprise*
+
+*amazing avatar made for me by [@Xanshiowo](https://x.com/Xanshiowo) on X (tyvm!)
